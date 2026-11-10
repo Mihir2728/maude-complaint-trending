@@ -1,6 +1,6 @@
 # Medical-Device Complaint Trending: FDA MAUDE
 
-![tests](https://github.com/YOUR-USERNAME/maude-complaint-trending/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Mihir2728/maude-complaint-trending/actions/workflows/tests.yml/badge.svg)
 
 A reproducible complaint-trending pipeline for public FDA **MAUDE** adverse-event reports
 (via the [openFDA API](https://open.fda.gov/apis/device/event/)). It pulls every report for a
@@ -11,7 +11,7 @@ dashboard and a one-page insight brief.
 Default scope: **coronary drug-eluting stents (FDA product code NIQ)**, reports received
 Jan 2020 – Dec 2025. Change one line in `config.yaml` to trend any other device category.
 
-**[▶ Live interactive dashboard](https://YOUR-USERNAME.github.io/maude-complaint-trending/)** ·
+**[▶ Live interactive dashboard](https://Mihir2728.github.io/maude-complaint-trending/)** ·
 **[Insight brief](reports/insight_brief.md)**
 
 ![Dashboard](docs/dashboard.png)
@@ -82,7 +82,7 @@ flowchart LR
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/maude-complaint-trending.git
+git clone https://github.com/Mihir2728/maude-complaint-trending.git
 cd maude-complaint-trending
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

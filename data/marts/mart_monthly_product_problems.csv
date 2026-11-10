@@ -16,30 +16,30 @@ month,problem,reports
 2020-01-01,Improper or Incorrect Procedure or Method,5
 2020-01-01,"Activation, Positioning or Separation Problem",4
 2020-01-01,Difficult to Advance,4
-2020-01-01,Migration,3
 2020-01-01,Device-Device Incompatibility,3
+2020-01-01,Migration,3
 2020-01-01,Deformation Due to Compressive Stress,3
 2020-01-01,Patient Device Interaction Problem,3
 2020-01-01,Use of Device Problem,3
-2020-01-01,Material Integrity Problem,2
 2020-01-01,Leak/Splash,2
-2020-01-01,Migration or Expulsion of Device,2
+2020-01-01,Material Integrity Problem,2
 2020-01-01,Obstruction of Flow,2
+2020-01-01,Migration or Expulsion of Device,2
 2020-01-01,Activation Failure,2
-2020-01-01,Positioning Failure,1
 2020-01-01,Difficult to Insert,1
+2020-01-01,Positioning Failure,1
 2020-01-01,Defective Device,1
-2020-01-01,Entrapment of Device,1
 2020-01-01,"Tear, Rip or Hole in Device Packaging",1
+2020-01-01,Entrapment of Device,1
 2020-01-01,Material Puncture/Hole,1
 2020-01-01,Component Missing,1
-2020-01-01,Burst Container or Vessel,1
-2020-01-01,Patient-Device Incompatibility,1
-2020-01-01,Packaging Problem,1
-2020-01-01,Insufficient Device Problem Information,1
-2020-01-01,Defective Component,1
 2020-01-01,Mechanical Jam,1
+2020-01-01,Defective Component,1
 2020-01-01,Device Contamination with Chemical or Other Material,1
+2020-01-01,Patient-Device Incompatibility,1
+2020-01-01,Burst Container or Vessel,1
+2020-01-01,Insufficient Device Problem Information,1
+2020-01-01,Packaging Problem,1
 2020-02-01,Adverse Event Without Identified Device or Use Problem,170
 2020-02-01,Material Deformation,148
 2020-02-01,Failure to Advance,74
@@ -59,8 +59,8 @@ month,problem,reports
 2020-02-01,Activation Failure,4
 2020-02-01,Patient-Device Incompatibility,4
 2020-02-01,Leak/Splash,3
-2020-02-01,Migration or Expulsion of Device,3
 2020-02-01,Stretched,3
+2020-02-01,Migration or Expulsion of Device,3
 2020-02-01,Burst Container or Vessel,3
 2020-02-01,Improper or Incorrect Procedure or Method,2
 2020-02-01,"Material Split, Cut or Torn",2
@@ -69,10 +69,10 @@ month,problem,reports
 2020-02-01,Device Misassembled During Manufacturing /Shipping,1
 2020-02-01,Migration,1
 2020-02-01,Material Too Rigid or Stiff,1
+2020-02-01,Infusion or Flow Problem,1
 2020-02-01,Device Markings/Labelling Problem,1
 2020-02-01,Activation Problem,1
 2020-02-01,Use of Device Problem,1
-2020-02-01,Infusion or Flow Problem,1
 2020-03-01,Adverse Event Without Identified Device or Use Problem,380
 2020-03-01,Material Deformation,195
 2020-03-01,Device Dislodged or Dislocated,67
@@ -80,8 +80,8 @@ month,problem,reports
 2020-03-01,Break,28
 2020-03-01,Difficult to Remove,25
 2020-03-01,Difficult to Advance,11
-2020-03-01,Improper or Incorrect Procedure or Method,10
 2020-03-01,Inflation Problem,10
+2020-03-01,Improper or Incorrect Procedure or Method,10
 2020-03-01,Device Damaged by Another Device,8
 2020-03-01,Material Rupture,7
 2020-03-01,Material Separation,6
@@ -95,29 +95,29 @@ month,problem,reports
 2020-03-01,Patient-Device Incompatibility,2
 2020-03-01,Insufficient Device Problem Information,2
 2020-03-01,Expiration Date Error,2
-2020-03-01,Deformation Due to Compressive Stress,2
 2020-03-01,Fracture,2
+2020-03-01,Deformation Due to Compressive Stress,2
 2020-03-01,Burst Container or Vessel,1
 2020-03-01,Use of Device Problem,1
-2020-03-01,Product Quality Problem,1
-2020-03-01,Patient Device Interaction Problem,1
 2020-03-01,"Material Split, Cut or Torn",1
-2020-03-01,Unintended System Motion,1
+2020-03-01,Patient Device Interaction Problem,1
+2020-03-01,Product Quality Problem,1
 2020-03-01,Failure to Fold,1
-2020-03-01,Device-Device Incompatibility,1
-2020-03-01,Defective Device,1
-2020-03-01,Material Integrity Problem,1
-2020-03-01,Obstruction of Flow,1
-2020-03-01,Malposition of Device,1
+2020-03-01,Unintended System Motion,1
 2020-03-01,Migration or Expulsion of Device,1
+2020-03-01,Malposition of Device,1
+2020-03-01,Obstruction of Flow,1
+2020-03-01,Defective Device,1
+2020-03-01,Device-Device Incompatibility,1
+2020-03-01,Material Integrity Problem,1
 2020-04-01,Material Deformation,159
 2020-04-01,Adverse Event Without Identified Device or Use Problem,142
 2020-04-01,Failure to Advance,49
 2020-04-01,Device Dislodged or Dislocated,34
 2020-04-01,Break,15
 2020-04-01,Difficult to Remove,14
-2020-04-01,Difficult to Advance,10
 2020-04-01,Patient-Device Incompatibility,10
+2020-04-01,Difficult to Advance,10
 2020-04-01,Material Separation,8
 2020-04-01,Inflation Problem,6
 2020-04-01,Activation Failure,5
@@ -127,24 +127,24 @@ month,problem,reports
 2020-04-01,Fracture,4
 2020-04-01,Leak/Splash,4
 2020-04-01,Deflation Problem,3
-2020-04-01,Device Damaged by Another Device,3
 2020-04-01,Deformation Due to Compressive Stress,3
+2020-04-01,Device Damaged by Another Device,3
 2020-04-01,Burst Container or Vessel,2
 2020-04-01,Detachment of Device or Device Component,2
-2020-04-01,Material Twisted/Bent,1
 2020-04-01,Component Missing,1
+2020-04-01,Material Twisted/Bent,1
+2020-04-01,Difficult or Delayed Activation,1
+2020-04-01,Defective Component,1
+2020-04-01,"Material Split, Cut or Torn",1
+2020-04-01,Failure to Unfold or Unwrap,1
+2020-04-01,Premature Activation,1
 2020-04-01,Use of Device Problem,1
 2020-04-01,Insufficient Device Problem Information,1
 2020-04-01,Packaging Problem,1
-2020-04-01,Difficult or Delayed Activation,1
-2020-04-01,"Material Split, Cut or Torn",1
-2020-04-01,Defective Component,1
-2020-04-01,Premature Activation,1
-2020-04-01,Failure to Unfold or Unwrap,1
-2020-04-01,Difficult to Insert,1
 2020-04-01,Defective Device,1
-2020-04-01,Obstruction of Flow,1
+2020-04-01,Difficult to Insert,1
 2020-04-01,Entrapment of Device,1
+2020-04-01,Obstruction of Flow,1
 2020-05-01,Material Deformation,143
 2020-05-01,Adverse Event Without Identified Device or Use Problem,78
 2020-05-01,Failure to Advance,66
@@ -154,25 +154,25 @@ month,problem,reports
 2020-05-01,Difficult to Advance,7
 2020-05-01,Use of Device Problem,5
 2020-05-01,Material Separation,4
-2020-05-01,Inflation Problem,4
 2020-05-01,Improper or Incorrect Procedure or Method,4
+2020-05-01,Inflation Problem,4
 2020-05-01,Leak/Splash,3
-2020-05-01,Fracture,3
 2020-05-01,Detachment of Device or Device Component,3
+2020-05-01,Fracture,3
 2020-05-01,"Material Split, Cut or Torn",2
+2020-05-01,Deflation Problem,2
+2020-05-01,Material Rupture,2
 2020-05-01,Device Markings/Labelling Problem,2
 2020-05-01,Activation Failure,2
-2020-05-01,Material Rupture,2
-2020-05-01,Deflation Problem,2
 2020-05-01,Entrapment of Device,2
 2020-05-01,Defective Device,2
 2020-05-01,Difficult to Open or Remove Packaging Material,1
-2020-05-01,Premature Activation,1
 2020-05-01,Burst Container or Vessel,1
-2020-05-01,Migration or Expulsion of Device,1
-2020-05-01,Stretched,1
-2020-05-01,Migration,1
+2020-05-01,Premature Activation,1
 2020-05-01,Difficult to Insert,1
+2020-05-01,Migration,1
+2020-05-01,Stretched,1
+2020-05-01,Migration or Expulsion of Device,1
 2020-06-01,Material Deformation,187
 2020-06-01,Adverse Event Without Identified Device or Use Problem,137
 2020-06-01,Failure to Advance,67
@@ -184,32 +184,32 @@ month,problem,reports
 2020-06-01,Improper or Incorrect Procedure or Method,8
 2020-06-01,Material Separation,6
 2020-06-01,Entrapment of Device,6
-2020-06-01,Activation Failure,5
 2020-06-01,Deflation Problem,5
+2020-06-01,Activation Failure,5
 2020-06-01,Device Damaged by Another Device,5
 2020-06-01,Positioning Problem,5
 2020-06-01,Detachment of Device or Device Component,4
 2020-06-01,Inflation Problem,4
-2020-06-01,Material Rupture,3
 2020-06-01,Use of Device Problem,3
+2020-06-01,Material Rupture,3
 2020-06-01,Patient-Device Incompatibility,3
 2020-06-01,Leak/Splash,3
-2020-06-01,"Material Split, Cut or Torn",2
 2020-06-01,Device Contamination with Chemical or Other Material,2
+2020-06-01,"Material Split, Cut or Torn",2
 2020-06-01,Patient Device Interaction Problem,2
 2020-06-01,Material Integrity Problem,2
 2020-06-01,Device-Device Incompatibility,2
 2020-06-01,Migration,2
 2020-06-01,Material Too Soft/Flexible,1
 2020-06-01,Difficult or Delayed Activation,1
-2020-06-01,Premature Activation,1
 2020-06-01,Burst Container or Vessel,1
+2020-06-01,Premature Activation,1
 2020-06-01,Deformation Due to Compressive Stress,1
-2020-06-01,Fluid/Blood Leak,1
+2020-06-01,Physical Resistance/Sticking,1
+2020-06-01,Defective Device,1
 2020-06-01,"Activation, Positioning or Separation Problem",1
 2020-06-01,Migration or Expulsion of Device,1
-2020-06-01,Defective Device,1
-2020-06-01,Physical Resistance/Sticking,1
+2020-06-01,Fluid/Blood Leak,1
 2020-07-01,Material Deformation,166
 2020-07-01,Adverse Event Without Identified Device or Use Problem,105
 2020-07-01,Device Dislodged or Dislocated,93
@@ -222,8 +222,8 @@ month,problem,reports
 2020-07-01,Deflation Problem,10
 2020-07-01,Migration,8
 2020-07-01,Detachment of Device or Device Component,7
-2020-07-01,Burst Container or Vessel,7
 2020-07-01,Material Rupture,7
+2020-07-01,Burst Container or Vessel,7
 2020-07-01,Activation Failure,7
 2020-07-01,Defective Device,6
 2020-07-01,Inflation Problem,6
@@ -235,17 +235,17 @@ month,problem,reports
 2020-07-01,Difficult to Insert,2
 2020-07-01,Entrapment of Device,2
 2020-07-01,Obstruction of Flow,2
-2020-07-01,Physical Resistance/Sticking,1
 2020-07-01,Contamination /Decontamination Problem,1
-2020-07-01,Structural Problem,1
+2020-07-01,Physical Resistance/Sticking,1
 2020-07-01,Material Integrity Problem,1
 2020-07-01,Malposition of Device,1
 2020-07-01,Difficult or Delayed Positioning,1
+2020-07-01,Structural Problem,1
 2020-07-01,Component Missing,1
-2020-07-01,Contamination,1
-2020-07-01,Patient-Device Incompatibility,1
-2020-07-01,Device Markings/Labelling Problem,1
 2020-07-01,"Material Split, Cut or Torn",1
+2020-07-01,Patient-Device Incompatibility,1
+2020-07-01,Contamination,1
+2020-07-01,Device Markings/Labelling Problem,1
 2020-08-01,Material Deformation,172
 2020-08-01,Adverse Event Without Identified Device or Use Problem,138
 2020-08-01,Failure to Advance,66
@@ -258,27 +258,27 @@ month,problem,reports
 2020-08-01,Material Rupture,6
 2020-08-01,Use of Device Problem,5
 2020-08-01,Device Damaged by Another Device,5
+2020-08-01,"Activation, Positioning or Separation Problem",4
+2020-08-01,Inflation Problem,4
 2020-08-01,Leak/Splash,4
 2020-08-01,Fracture,4
-2020-08-01,Inflation Problem,4
-2020-08-01,"Activation, Positioning or Separation Problem",4
 2020-08-01,Deflation Problem,3
 2020-08-01,Deformation Due to Compressive Stress,3
 2020-08-01,Entrapment of Device,3
 2020-08-01,Burst Container or Vessel,2
 2020-08-01,Material Separation,2
-2020-08-01,Migration,2
-2020-08-01,Material Integrity Problem,2
-2020-08-01,Detachment of Device or Device Component,2
 2020-08-01,Obstruction of Flow,2
+2020-08-01,Migration,2
+2020-08-01,Detachment of Device or Device Component,2
+2020-08-01,Material Integrity Problem,2
 2020-08-01,Insufficient Device Problem Information,1
-2020-08-01,Patient Device Interaction Problem,1
-2020-08-01,Material Twisted/Bent,1
-2020-08-01,"Material Split, Cut or Torn",1
-2020-08-01,Mechanical Jam,1
 2020-08-01,Device Contamination with Chemical or Other Material,1
-2020-08-01,Failure to Fold,1
+2020-08-01,Mechanical Jam,1
+2020-08-01,"Material Split, Cut or Torn",1
+2020-08-01,Material Twisted/Bent,1
+2020-08-01,Patient Device Interaction Problem,1
 2020-08-01,Positioning Problem,1
+2020-08-01,Failure to Fold,1
 2020-08-01,Stretched,1
 2020-09-01,Adverse Event Without Identified Device or Use Problem,195
 2020-09-01,Material Deformation,194
@@ -296,28 +296,28 @@ month,problem,reports
 2020-09-01,Positioning Problem,5
 2020-09-01,Fracture,5
 2020-09-01,Burst Container or Vessel,3
+2020-09-01,Inflation Problem,3
 2020-09-01,Physical Resistance/Sticking,3
 2020-09-01,Entrapment of Device,3
-2020-09-01,Inflation Problem,3
-2020-09-01,Patient-Device Incompatibility,2
 2020-09-01,Deflation Problem,2
+2020-09-01,Patient-Device Incompatibility,2
 2020-09-01,Product Quality Problem,2
 2020-09-01,No Apparent Adverse Event,2
-2020-09-01,Defective Device,2
-2020-09-01,Deformation Due to Compressive Stress,2
-2020-09-01,Material Integrity Problem,2
 2020-09-01,Off-Label Use,2
+2020-09-01,Defective Device,2
+2020-09-01,Material Integrity Problem,2
+2020-09-01,Deformation Due to Compressive Stress,2
 2020-09-01,Packaging Problem,1
-2020-09-01,Material Twisted/Bent,1
 2020-09-01,Difficult to Open or Remove Packaging Material,1
 2020-09-01,Difficult or Delayed Activation,1
-2020-09-01,Retraction Problem,1
-2020-09-01,Difficult to Insert,1
-2020-09-01,Migration,1
-2020-09-01,Positioning Failure,1
-2020-09-01,"Tear, Rip or Hole in Device Packaging",1
+2020-09-01,Material Twisted/Bent,1
 2020-09-01,Obstruction of Flow,1
 2020-09-01,Device Damaged by Another Device,1
+2020-09-01,Positioning Failure,1
+2020-09-01,Migration,1
+2020-09-01,Retraction Problem,1
+2020-09-01,Difficult to Insert,1
+2020-09-01,"Tear, Rip or Hole in Device Packaging",1
 2020-10-01,Material Deformation,186
 2020-10-01,Adverse Event Without Identified Device or Use Problem,135
 2020-10-01,Failure to Advance,107
@@ -327,12 +327,12 @@ month,problem,reports
 2020-10-01,Difficult to Remove,20
 2020-10-01,Fracture,10
 2020-10-01,Leak/Splash,9
-2020-10-01,Material Separation,7
 2020-10-01,Activation Failure,7
+2020-10-01,Material Separation,7
 2020-10-01,Inflation Problem,7
 2020-10-01,Improper or Incorrect Procedure or Method,6
-2020-10-01,Detachment of Device or Device Component,5
 2020-10-01,Obstruction of Flow,5
+2020-10-01,Detachment of Device or Device Component,5
 2020-10-01,Entrapment of Device,4
 2020-10-01,Deflation Problem,3
 2020-10-01,Device Damaged by Another Device,3
@@ -340,23 +340,23 @@ month,problem,reports
 2020-10-01,Product Quality Problem,2
 2020-10-01,Off-Label Use,2
 2020-10-01,Material Rupture,1
-2020-10-01,Contamination,1
 2020-10-01,Patient-Device Incompatibility,1
+2020-10-01,Contamination,1
 2020-10-01,Use of Device Problem,1
-2020-10-01,Loose or Intermittent Connection,1
-2020-10-01,Component Missing,1
-2020-10-01,Patient Device Interaction Problem,1
 2020-10-01,Premature Activation,1
 2020-10-01,Difficult to Open or Remove Packaging Material,1
-2020-10-01,Difficult or Delayed Activation,1
 2020-10-01,"Material Split, Cut or Torn",1
+2020-10-01,Difficult or Delayed Activation,1
+2020-10-01,Component Missing,1
+2020-10-01,Patient Device Interaction Problem,1
+2020-10-01,Loose or Intermittent Connection,1
 2020-10-01,Positioning Problem,1
-2020-10-01,Stretched,1
-2020-10-01,Defective Device,1
-2020-10-01,Migration,1
-2020-10-01,Device-Device Incompatibility,1
-2020-10-01,Material Integrity Problem,1
 2020-10-01,Unsealed Device Packaging,1
+2020-10-01,Stretched,1
+2020-10-01,Device-Device Incompatibility,1
+2020-10-01,Migration,1
+2020-10-01,Defective Device,1
+2020-10-01,Material Integrity Problem,1
 2020-11-01,Material Deformation,199
 2020-11-01,Adverse Event Without Identified Device or Use Problem,184
 2020-11-01,Failure to Advance,134
@@ -374,30 +374,30 @@ month,problem,reports
 2020-11-01,Material Integrity Problem,5
 2020-11-01,Device Damaged by Another Device,4
 2020-11-01,Material Separation,3
-2020-11-01,Burst Container or Vessel,3
 2020-11-01,Difficult or Delayed Activation,3
 2020-11-01,Device Markings/Labelling Problem,3
+2020-11-01,Burst Container or Vessel,3
 2020-11-01,Defective Device,3
 2020-11-01,Leak/Splash,3
 2020-11-01,Detachment of Device or Device Component,3
 2020-11-01,Patient Device Interaction Problem,2
-2020-11-01,Use of Device Problem,2
-2020-11-01,Insufficient Device Problem Information,2
 2020-11-01,Device Contamination with Chemical or Other Material,2
+2020-11-01,Insufficient Device Problem Information,2
+2020-11-01,Use of Device Problem,2
 2020-11-01,Migration,2
-2020-11-01,Deflation Problem,1
-2020-11-01,Mechanical Problem,1
 2020-11-01,"Material Split, Cut or Torn",1
 2020-11-01,Device Damaged Prior to Receipt by User,1
 2020-11-01,Premature Activation,1
+2020-11-01,Mechanical Problem,1
+2020-11-01,Deflation Problem,1
 2020-11-01,Difficult to Insert,1
 2020-11-01,Positioning Failure,1
-2020-11-01,Positioning Problem,1
-2020-11-01,Unsealed Device Packaging,1
+2020-11-01,Deformation Due to Compressive Stress,1
 2020-11-01,Disconnection,1
 2020-11-01,Entrapment of Device,1
-2020-11-01,Deformation Due to Compressive Stress,1
 2020-11-01,"Tear, Rip or Hole in Device Packaging",1
+2020-11-01,Positioning Problem,1
+2020-11-01,Unsealed Device Packaging,1
 2020-12-01,Material Deformation,245
 2020-12-01,Failure to Advance,198
 2020-12-01,Adverse Event Without Identified Device or Use Problem,143
@@ -413,37 +413,37 @@ month,problem,reports
 2020-12-01,Improper or Incorrect Procedure or Method,6
 2020-12-01,Deflation Problem,5
 2020-12-01,Material Rupture,4
-2020-12-01,Material Integrity Problem,4
 2020-12-01,Detachment of Device or Device Component,4
-2020-12-01,Positioning Failure,4
+2020-12-01,Material Integrity Problem,4
 2020-12-01,Stretched,4
-2020-12-01,Obstruction of Flow,3
+2020-12-01,Positioning Failure,4
 2020-12-01,"Activation, Positioning or Separation Problem",3
+2020-12-01,Obstruction of Flow,3
 2020-12-01,Leak/Splash,3
 2020-12-01,Deformation Due to Compressive Stress,3
 2020-12-01,Fracture,3
 2020-12-01,Premature Activation,2
 2020-12-01,Use of Device Problem,2
 2020-12-01,Product Quality Problem,2
-2020-12-01,Physical Resistance/Sticking,2
-2020-12-01,Difficult to Insert,2
-2020-12-01,Migration,2
 2020-12-01,Positioning Problem,2
-2020-12-01,Difficult or Delayed Activation,1
-2020-12-01,Defective Component,1
+2020-12-01,Difficult to Insert,2
+2020-12-01,Physical Resistance/Sticking,2
+2020-12-01,Migration,2
 2020-12-01,Therapeutic or Diagnostic Output Failure,1
 2020-12-01,Burst Container or Vessel,1
 2020-12-01,Patient-Device Incompatibility,1
+2020-12-01,Component Missing,1
 2020-12-01,Patient Device Interaction Problem,1
 2020-12-01,Loose or Intermittent Connection,1
 2020-12-01,Material Twisted/Bent,1
-2020-12-01,Component Missing,1
+2020-12-01,Difficult or Delayed Activation,1
+2020-12-01,Defective Component,1
 2020-12-01,Malposition of Device,1
-2020-12-01,Difficult or Delayed Positioning,1
 2020-12-01,Off-Label Use,1
+2020-12-01,Difficult or Delayed Positioning,1
+2020-12-01,Unintended System Motion,1
 2020-12-01,Premature Separation,1
 2020-12-01,Defective Device,1
-2020-12-01,Unintended System Motion,1
 2021-01-01,Material Deformation,195
 2021-01-01,Adverse Event Without Identified Device or Use Problem,114
 2021-01-01,Failure to Advance,99
@@ -452,41 +452,41 @@ month,problem,reports
 2021-01-01,Difficult to Remove,19
 2021-01-01,Break,17
 2021-01-01,Material Separation,9
-2021-01-01,Detachment of Device or Device Component,9
 2021-01-01,Fracture,9
+2021-01-01,Detachment of Device or Device Component,9
 2021-01-01,Material Rupture,7
 2021-01-01,Deflation Problem,5
 2021-01-01,Improper or Incorrect Procedure or Method,5
-2021-01-01,Patient-Device Incompatibility,4
-2021-01-01,Use of Device Problem,4
-2021-01-01,Burst Container or Vessel,4
 2021-01-01,Activation Failure,4
+2021-01-01,Burst Container or Vessel,4
+2021-01-01,Use of Device Problem,4
+2021-01-01,Patient-Device Incompatibility,4
 2021-01-01,Device-Device Incompatibility,4
-2021-01-01,Device Damaged by Another Device,4
 2021-01-01,Material Integrity Problem,4
+2021-01-01,Device Damaged by Another Device,4
 2021-01-01,Inflation Problem,3
 2021-01-01,Patient Device Interaction Problem,2
 2021-01-01,Migration,2
-2021-01-01,Stretched,2
 2021-01-01,Defective Device,2
-2021-01-01,Malposition of Device,2
-2021-01-01,Obstruction of Flow,2
-2021-01-01,Unsealed Device Packaging,2
-2021-01-01,Entrapment of Device,2
+2021-01-01,Stretched,2
 2021-01-01,Leak/Splash,2
-2021-01-01,Component Missing,1
-2021-01-01,Device Fell,1
+2021-01-01,Entrapment of Device,2
+2021-01-01,Obstruction of Flow,2
+2021-01-01,Malposition of Device,2
+2021-01-01,Unsealed Device Packaging,2
 2021-01-01,Device Slipped,1
+2021-01-01,Device Fell,1
+2021-01-01,Component Missing,1
 2021-01-01,Device Contamination with Chemical or Other Material,1
 2021-01-01,"Material Split, Cut or Torn",1
 2021-01-01,Device Markings/Labelling Problem,1
 2021-01-01,Premature Activation,1
+2021-01-01,"Tear, Rip or Hole in Device Packaging",1
 2021-01-01,No Apparent Adverse Event,1
 2021-01-01,Separation Failure,1
-2021-01-01,Difficult or Delayed Positioning,1
 2021-01-01,Off-Label Use,1
 2021-01-01,"Activation, Positioning or Separation Problem",1
-2021-01-01,"Tear, Rip or Hole in Device Packaging",1
+2021-01-01,Difficult or Delayed Positioning,1
 2021-02-01,Adverse Event Without Identified Device or Use Problem,202
 2021-02-01,Material Deformation,127
 2021-02-01,Failure to Advance,105
@@ -496,8 +496,8 @@ month,problem,reports
 2021-02-01,Break,19
 2021-02-01,Fracture,9
 2021-02-01,Deflation Problem,8
-2021-02-01,Improper or Incorrect Procedure or Method,6
 2021-02-01,Obstruction of Flow,6
+2021-02-01,Improper or Incorrect Procedure or Method,6
 2021-02-01,Material Separation,6
 2021-02-01,Inflation Problem,5
 2021-02-01,Detachment of Device or Device Component,5
@@ -506,31 +506,31 @@ month,problem,reports
 2021-02-01,Material Integrity Problem,4
 2021-02-01,Burst Container or Vessel,4
 2021-02-01,Activation Failure,4
-2021-02-01,Device-Device Incompatibility,3
-2021-02-01,Physical Resistance/Sticking,3
+2021-02-01,Leak/Splash,3
 2021-02-01,Migration,3
 2021-02-01,Defective Device,3
-2021-02-01,Leak/Splash,3
+2021-02-01,Device-Device Incompatibility,3
+2021-02-01,Physical Resistance/Sticking,3
 2021-02-01,Device Contamination with Chemical or Other Material,3
-2021-02-01,Positioning Failure,2
-2021-02-01,"Activation, Positioning or Separation Problem",2
-2021-02-01,Malposition of Device,2
 2021-02-01,Device Damaged by Another Device,2
+2021-02-01,"Activation, Positioning or Separation Problem",2
 2021-02-01,Difficult or Delayed Positioning,2
+2021-02-01,Malposition of Device,2
+2021-02-01,Positioning Failure,2
 2021-02-01,Patient-Device Incompatibility,2
-2021-02-01,Difficult to Insert,1
-2021-02-01,Stretched,1
 2021-02-01,Off-Label Use,1
 2021-02-01,Migration or Expulsion of Device,1
-2021-02-01,Use of Device Problem,1
+2021-02-01,Stretched,1
+2021-02-01,Difficult to Insert,1
 2021-02-01,Packaging Problem,1
+2021-02-01,Use of Device Problem,1
+2021-02-01,Device Markings/Labelling Problem,1
 2021-02-01,Material Twisted/Bent,1
 2021-02-01,Patient Device Interaction Problem,1
-2021-02-01,Defective Component,1
-2021-02-01,"Material Split, Cut or Torn",1
 2021-02-01,Difficult to Open or Remove Packaging Material,1
 2021-02-01,Difficult or Delayed Activation,1
-2021-02-01,Device Markings/Labelling Problem,1
+2021-02-01,Defective Component,1
+2021-02-01,"Material Split, Cut or Torn",1
 2021-03-01,Material Deformation,180
 2021-03-01,Adverse Event Without Identified Device or Use Problem,162
 2021-03-01,Failure to Advance,138
@@ -546,28 +546,28 @@ month,problem,reports
 2021-03-01,"Activation, Positioning or Separation Problem",8
 2021-03-01,Use of Device Problem,8
 2021-03-01,Material Rupture,8
-2021-03-01,Deflation Problem,7
 2021-03-01,Material Separation,7
+2021-03-01,Deflation Problem,7
 2021-03-01,Defective Device,6
 2021-03-01,Entrapment of Device,5
 2021-03-01,Unintended System Motion,5
-2021-03-01,Burst Container or Vessel,5
 2021-03-01,Patient Device Interaction Problem,5
+2021-03-01,Burst Container or Vessel,5
 2021-03-01,Device Contamination with Chemical or Other Material,4
 2021-03-01,Fracture,3
 2021-03-01,Device Damaged by Another Device,3
 2021-03-01,Obstruction of Flow,3
-2021-03-01,Difficult to Open or Remove Packaging Material,3
 2021-03-01,"Material Split, Cut or Torn",3
+2021-03-01,Difficult to Open or Remove Packaging Material,3
 2021-03-01,Device-Device Incompatibility,2
 2021-03-01,Material Integrity Problem,1
-2021-03-01,Collapse,1
 2021-03-01,Difficult to Insert,1
 2021-03-01,Positioning Failure,1
+2021-03-01,Collapse,1
 2021-03-01,Mechanical Jam,1
-2021-03-01,Patient-Device Incompatibility,1
-2021-03-01,Dislodged,1
 2021-03-01,Inadequacy of Device Shape and/or Size,1
+2021-03-01,Dislodged,1
+2021-03-01,Patient-Device Incompatibility,1
 2021-04-01,Adverse Event Without Identified Device or Use Problem,142
 2021-04-01,Material Deformation,131
 2021-04-01,Failure to Advance,92
@@ -579,8 +579,8 @@ month,problem,reports
 2021-04-01,Activation Failure,9
 2021-04-01,Material Rupture,8
 2021-04-01,Deflation Problem,6
-2021-04-01,Inflation Problem,6
 2021-04-01,Device-Device Incompatibility,6
+2021-04-01,Inflation Problem,6
 2021-04-01,Material Separation,5
 2021-04-01,Burst Container or Vessel,5
 2021-04-01,Fracture,5
@@ -590,26 +590,26 @@ month,problem,reports
 2021-04-01,Obstruction of Flow,4
 2021-04-01,Difficult or Delayed Activation,3
 2021-04-01,Defective Device,3
-2021-04-01,Device Markings/Labelling Problem,2
 2021-04-01,Patient-Device Incompatibility,2
+2021-04-01,Device Markings/Labelling Problem,2
 2021-04-01,Entrapment of Device,2
+2021-04-01,Unraveled Material,2
+2021-04-01,Migration,2
 2021-04-01,Device Damaged by Another Device,2
 2021-04-01,Structural Problem,2
-2021-04-01,Migration,2
-2021-04-01,Unraveled Material,2
-2021-04-01,Device Contamination with Chemical or Other Material,1
 2021-04-01,Failure to Deliver,1
+2021-04-01,Device Contamination with Chemical or Other Material,1
 2021-04-01,Material Too Soft/Flexible,1
 2021-04-01,Packaging Problem,1
 2021-04-01,Deformation Due to Compressive Stress,1
 2021-04-01,Material Integrity Problem,1
-2021-04-01,Unintended System Motion,1
-2021-04-01,Positioning Problem,1
+2021-04-01,Stretched,1
 2021-04-01,Difficult to Insert,1
+2021-04-01,Physical Resistance/Sticking,1
 2021-04-01,Positioning Failure,1
 2021-04-01,Material Protrusion/Extrusion,1
-2021-04-01,Physical Resistance/Sticking,1
-2021-04-01,Stretched,1
+2021-04-01,Unintended System Motion,1
+2021-04-01,Positioning Problem,1
 2021-05-01,Material Deformation,140
 2021-05-01,Adverse Event Without Identified Device or Use Problem,123
 2021-05-01,Failure to Advance,122
@@ -618,8 +618,8 @@ month,problem,reports
 2021-05-01,Difficult to Advance,24
 2021-05-01,Difficult to Remove,23
 2021-05-01,Activation Failure,7
-2021-05-01,"Activation, Positioning or Separation Problem",6
 2021-05-01,Obstruction of Flow,6
+2021-05-01,"Activation, Positioning or Separation Problem",6
 2021-05-01,Inflation Problem,6
 2021-05-01,Material Rupture,5
 2021-05-01,Fracture,5
@@ -628,24 +628,24 @@ month,problem,reports
 2021-05-01,Improper or Incorrect Procedure or Method,4
 2021-05-01,Deflation Problem,3
 2021-05-01,Burst Container or Vessel,3
-2021-05-01,Leak/Splash,3
-2021-05-01,Detachment of Device or Device Component,3
 2021-05-01,Deformation Due to Compressive Stress,3
+2021-05-01,Detachment of Device or Device Component,3
+2021-05-01,Leak/Splash,3
 2021-05-01,Device Damaged by Another Device,2
-2021-05-01,Device Contamination with Chemical or Other Material,1
 2021-05-01,"Material Split, Cut or Torn",1
 2021-05-01,Difficult or Delayed Activation,1
+2021-05-01,Device Contamination with Chemical or Other Material,1
 2021-05-01,Material Separation,1
-2021-05-01,Patient-Device Incompatibility,1
 2021-05-01,Use of Device Problem,1
-2021-05-01,Off-Label Use,1
-2021-05-01,Difficult or Delayed Positioning,1
-2021-05-01,Positioning Problem,1
-2021-05-01,Device-Device Incompatibility,1
-2021-05-01,Migration,1
+2021-05-01,Patient-Device Incompatibility,1
 2021-05-01,Physical Resistance/Sticking,1
+2021-05-01,Device-Device Incompatibility,1
 2021-05-01,Positioning Failure,1
 2021-05-01,Stretched,1
+2021-05-01,Migration,1
+2021-05-01,Difficult or Delayed Positioning,1
+2021-05-01,Off-Label Use,1
+2021-05-01,Positioning Problem,1
 2021-06-01,Adverse Event Without Identified Device or Use Problem,126
 2021-06-01,Material Deformation,117
 2021-06-01,Failure to Advance,101
@@ -656,9 +656,9 @@ month,problem,reports
 2021-06-01,Obstruction of Flow,9
 2021-06-01,Material Rupture,8
 2021-06-01,Inflation Problem,7
-2021-06-01,Detachment of Device or Device Component,7
-2021-06-01,Fracture,7
 2021-06-01,Improper or Incorrect Procedure or Method,7
+2021-06-01,Fracture,7
+2021-06-01,Detachment of Device or Device Component,7
 2021-06-01,Burst Container or Vessel,7
 2021-06-01,Device Damaged by Another Device,6
 2021-06-01,Activation Failure,6
@@ -666,26 +666,26 @@ month,problem,reports
 2021-06-01,"Activation, Positioning or Separation Problem",4
 2021-06-01,Deflation Problem,4
 2021-06-01,Migration or Expulsion of Device,3
-2021-06-01,Entrapment of Device,3
 2021-06-01,Device-Device Incompatibility,3
-2021-06-01,Material Separation,3
+2021-06-01,Entrapment of Device,3
 2021-06-01,Use of Device Problem,3
+2021-06-01,Material Separation,3
+2021-06-01,Stretched,2
 2021-06-01,Deformation Due to Compressive Stress,2
 2021-06-01,Material Integrity Problem,2
-2021-06-01,Stretched,2
 2021-06-01,Failure to Deflate,2
-2021-06-01,Patient Device Interaction Problem,2
-2021-06-01,Product Quality Problem,2
 2021-06-01,Patient-Device Incompatibility,2
-2021-06-01,Off-Label Use,1
+2021-06-01,Product Quality Problem,2
+2021-06-01,Patient Device Interaction Problem,2
 2021-06-01,Difficult or Delayed Positioning,1
+2021-06-01,Off-Label Use,1
 2021-06-01,Positioning Problem,1
 2021-06-01,Positioning Failure,1
-2021-06-01,Defective Device,1
 2021-06-01,Unraveled Material,1
+2021-06-01,Defective Device,1
+2021-06-01,Mechanical Problem,1
 2021-06-01,Pressure Problem,1
 2021-06-01,"Material Split, Cut or Torn",1
-2021-06-01,Mechanical Problem,1
 2021-07-01,Material Deformation,148
 2021-07-01,Adverse Event Without Identified Device or Use Problem,130
 2021-07-01,Failure to Advance,120
@@ -698,30 +698,30 @@ month,problem,reports
 2021-07-01,Deflation Problem,5
 2021-07-01,Patient Device Interaction Problem,4
 2021-07-01,Material Separation,4
-2021-07-01,Improper or Incorrect Procedure or Method,4
 2021-07-01,Positioning Failure,4
 2021-07-01,Defective Device,4
+2021-07-01,Improper or Incorrect Procedure or Method,4
 2021-07-01,Device-Device Incompatibility,4
 2021-07-01,Fracture,4
 2021-07-01,Material Integrity Problem,4
 2021-07-01,Difficult to Insert,3
-2021-07-01,Device Damaged by Another Device,3
-2021-07-01,"Activation, Positioning or Separation Problem",3
 2021-07-01,Detachment of Device or Device Component,3
+2021-07-01,"Activation, Positioning or Separation Problem",3
+2021-07-01,Device Damaged by Another Device,3
 2021-07-01,Patient-Device Incompatibility,2
 2021-07-01,Use of Device Problem,2
-2021-07-01,Obstruction of Flow,2
-2021-07-01,Deformation Due to Compressive Stress,2
 2021-07-01,Entrapment of Device,2
+2021-07-01,Deformation Due to Compressive Stress,2
+2021-07-01,Obstruction of Flow,2
 2021-07-01,Component Missing,1
 2021-07-01,Material Twisted/Bent,1
-2021-07-01,Burst Container or Vessel,1
 2021-07-01,Failure to Eject,1
+2021-07-01,Burst Container or Vessel,1
 2021-07-01,Positioning Problem,1
 2021-07-01,Off-Label Use,1
 2021-07-01,Component Misassembled,1
-2021-07-01,Inflation Problem,1
 2021-07-01,Migration or Expulsion of Device,1
+2021-07-01,Inflation Problem,1
 2021-08-01,Adverse Event Without Identified Device or Use Problem,116
 2021-08-01,Material Deformation,97
 2021-08-01,Failure to Advance,91
@@ -734,13 +734,13 @@ month,problem,reports
 2021-08-01,Material Separation,7
 2021-08-01,Positioning Problem,6
 2021-08-01,Improper or Incorrect Procedure or Method,5
-2021-08-01,Deflation Problem,5
 2021-08-01,Material Rupture,5
+2021-08-01,Deflation Problem,5
+2021-08-01,Device-Device Incompatibility,4
 2021-08-01,Inflation Problem,4
 2021-08-01,Device Damaged by Another Device,4
-2021-08-01,Device-Device Incompatibility,4
-2021-08-01,Activation Failure,4
 2021-08-01,Patient Device Interaction Problem,4
+2021-08-01,Activation Failure,4
 2021-08-01,Entrapment of Device,3
 2021-08-01,Positioning Failure,3
 2021-08-01,Patient-Device Incompatibility,3
@@ -749,20 +749,20 @@ month,problem,reports
 2021-08-01,Material Too Rigid or Stiff,2
 2021-08-01,Burst Container or Vessel,2
 2021-08-01,Deformation Due to Compressive Stress,1
-2021-08-01,Unsealed Device Packaging,1
-2021-08-01,Obstruction of Flow,1
-2021-08-01,Difficult or Delayed Positioning,1
-2021-08-01,"Activation, Positioning or Separation Problem",1
-2021-08-01,Complete Blockage,1
-2021-08-01,Difficult to Insert,1
 2021-08-01,Physical Resistance/Sticking,1
+2021-08-01,Difficult to Insert,1
 2021-08-01,Nonstandard Device,1
 2021-08-01,No Apparent Adverse Event,1
+2021-08-01,Unsealed Device Packaging,1
+2021-08-01,Difficult or Delayed Positioning,1
+2021-08-01,Complete Blockage,1
+2021-08-01,"Activation, Positioning or Separation Problem",1
+2021-08-01,Obstruction of Flow,1
 2021-08-01,"Material Split, Cut or Torn",1
-2021-08-01,Use of Device Problem,1
-2021-08-01,Decrease in Pressure,1
 2021-08-01,Material Twisted/Bent,1
 2021-08-01,Coagulation in Device or Device Ingredient,1
+2021-08-01,Use of Device Problem,1
+2021-08-01,Decrease in Pressure,1
 2021-09-01,Failure to Advance,124
 2021-09-01,Material Deformation,110
 2021-09-01,Adverse Event Without Identified Device or Use Problem,86
@@ -779,34 +779,34 @@ month,problem,reports
 2021-09-01,Deflation Problem,4
 2021-09-01,Device-Device Incompatibility,4
 2021-09-01,"Material Split, Cut or Torn",3
-2021-09-01,Inflation Problem,3
-2021-09-01,Device Damaged by Another Device,3
-2021-09-01,Deformation Due to Compressive Stress,3
 2021-09-01,Detachment of Device or Device Component,3
 2021-09-01,Device Misassembled During Manufacturing /Shipping,3
 2021-09-01,Leak/Splash,3
-2021-09-01,Burst Container or Vessel,2
-2021-09-01,Use of Device Problem,2
+2021-09-01,Deformation Due to Compressive Stress,3
+2021-09-01,Inflation Problem,3
+2021-09-01,Device Damaged by Another Device,3
 2021-09-01,Packaging Problem,2
+2021-09-01,Use of Device Problem,2
+2021-09-01,Burst Container or Vessel,2
 2021-09-01,Positioning Failure,2
 2021-09-01,"Activation, Positioning or Separation Problem",2
-2021-09-01,Patient-Device Incompatibility,1
-2021-09-01,Material Too Soft/Flexible,1
 2021-09-01,Difficult or Delayed Activation,1
+2021-09-01,Material Too Soft/Flexible,1
 2021-09-01,Activation Problem,1
-2021-09-01,Difficult to Insert,1
+2021-09-01,Patient-Device Incompatibility,1
+2021-09-01,Device Difficult to Setup or Prepare,1
 2021-09-01,Physical Resistance/Sticking,1
 2021-09-01,Unexpected Color,1
-2021-09-01,Migration,1
 2021-09-01,Defective Device,1
-2021-09-01,Device Difficult to Setup or Prepare,1
-2021-09-01,Positioning Problem,1
-2021-09-01,Appropriate Device Problem Term/Code Not Available,1
-2021-09-01,Unintended System Motion,1
-2021-09-01,Fluid/Blood Leak,1
-2021-09-01,Migration or Expulsion of Device,1
-2021-09-01,Malposition of Device,1
+2021-09-01,Migration,1
+2021-09-01,Difficult to Insert,1
 2021-09-01,Material Integrity Problem,1
+2021-09-01,Positioning Problem,1
+2021-09-01,Unintended System Motion,1
+2021-09-01,Appropriate Device Problem Term/Code Not Available,1
+2021-09-01,Malposition of Device,1
+2021-09-01,Migration or Expulsion of Device,1
+2021-09-01,Fluid/Blood Leak,1
 2021-10-01,Material Deformation,122
 2021-10-01,Failure to Advance,104
 2021-10-01,Adverse Event Without Identified Device or Use Problem,90
@@ -815,44 +815,44 @@ month,problem,reports
 2021-10-01,Break,24
 2021-10-01,Difficult to Advance,13
 2021-10-01,Device-Device Incompatibility,8
-2021-10-01,Improper or Incorrect Procedure or Method,6
 2021-10-01,Obstruction of Flow,6
 2021-10-01,Inflation Problem,6
+2021-10-01,Improper or Incorrect Procedure or Method,6
 2021-10-01,Activation Failure,6
 2021-10-01,Material Rupture,5
-2021-10-01,Fracture,4
 2021-10-01,Detachment of Device or Device Component,4
+2021-10-01,Fracture,4
 2021-10-01,Leak/Splash,3
 2021-10-01,Entrapment of Device,3
-2021-10-01,Use of Device Problem,3
-2021-10-01,Patient-Device Incompatibility,3
 2021-10-01,Deflation Problem,3
+2021-10-01,Use of Device Problem,3
 2021-10-01,Burst Container or Vessel,3
+2021-10-01,Patient-Device Incompatibility,3
 2021-10-01,Material Separation,3
 2021-10-01,Difficult or Delayed Activation,3
 2021-10-01,Unintended System Motion,2
-2021-10-01,Contamination /Decontamination Problem,2
-2021-10-01,Positioning Failure,2
-2021-10-01,Difficult to Insert,2
-2021-10-01,Migration,2
 2021-10-01,Device Damaged by Another Device,2
 2021-10-01,Deformation Due to Compressive Stress,2
-2021-10-01,"Material Split, Cut or Torn",2
+2021-10-01,Difficult to Insert,2
+2021-10-01,Positioning Failure,2
+2021-10-01,Contamination /Decontamination Problem,2
+2021-10-01,Migration,2
 2021-10-01,Material Too Soft/Flexible,2
+2021-10-01,"Material Split, Cut or Torn",2
 2021-10-01,Positioning Problem,1
-2021-10-01,Physical Resistance/Sticking,1
-2021-10-01,Defective Device,1
-2021-10-01,"Activation, Positioning or Separation Problem",1
 2021-10-01,Malposition of Device,1
-2021-10-01,Fluid/Blood Leak,1
+2021-10-01,"Activation, Positioning or Separation Problem",1
 2021-10-01,Material Puncture/Hole,1
+2021-10-01,Fluid/Blood Leak,1
 2021-10-01,Off-Label Use,1
 2021-10-01,"Tear, Rip or Hole in Device Packaging",1
+2021-10-01,Physical Resistance/Sticking,1
+2021-10-01,Defective Device,1
 2021-10-01,Packaging Problem,1
+2021-10-01,Device Markings/Labelling Problem,1
 2021-10-01,Component Missing,1
 2021-10-01,Material Twisted/Bent,1
 2021-10-01,Patient Device Interaction Problem,1
-2021-10-01,Device Markings/Labelling Problem,1
 2021-11-01,Material Deformation,123
 2021-11-01,Adverse Event Without Identified Device or Use Problem,118
 2021-11-01,Failure to Advance,109
@@ -862,39 +862,39 @@ month,problem,reports
 2021-11-01,Difficult to Advance,16
 2021-11-01,Activation Failure,10
 2021-11-01,Material Rupture,9
-2021-11-01,Device-Device Incompatibility,7
 2021-11-01,Detachment of Device or Device Component,7
-2021-11-01,Positioning Failure,6
-2021-11-01,Obstruction of Flow,6
+2021-11-01,Device-Device Incompatibility,7
 2021-11-01,Device Damaged by Another Device,6
+2021-11-01,Obstruction of Flow,6
 2021-11-01,Leak/Splash,6
-2021-11-01,Improper or Incorrect Procedure or Method,4
+2021-11-01,Positioning Failure,6
 2021-11-01,"Activation, Positioning or Separation Problem",4
 2021-11-01,Inflation Problem,4
 2021-11-01,Fracture,4
+2021-11-01,Improper or Incorrect Procedure or Method,4
 2021-11-01,Use of Device Problem,4
 2021-11-01,Material Separation,4
-2021-11-01,Difficult to Insert,3
 2021-11-01,Entrapment of Device,3
 2021-11-01,Material Integrity Problem,3
-2021-11-01,Defective Device,2
+2021-11-01,Difficult to Insert,3
 2021-11-01,Malposition of Device,2
+2021-11-01,Defective Device,2
 2021-11-01,Patient-Device Incompatibility,2
 2021-11-01,Patient Device Interaction Problem,2
 2021-11-01,Device Contamination with Chemical or Other Material,2
-2021-11-01,Unintended System Motion,1
 2021-11-01,Positioning Problem,1
-2021-11-01,Stretched,1
-2021-11-01,Migration,1
+2021-11-01,Unintended System Motion,1
 2021-11-01,Difficult or Delayed Positioning,1
-2021-11-01,Contamination,1
+2021-11-01,Migration,1
+2021-11-01,Stretched,1
 2021-11-01,Burst Container or Vessel,1
 2021-11-01,Deflation Problem,1
-2021-11-01,Loose or Intermittent Connection,1
+2021-11-01,Contamination,1
+2021-11-01,Device Markings/Labelling Problem,1
 2021-11-01,"Noise, Audible",1
+2021-11-01,Loose or Intermittent Connection,1
 2021-11-01,Difficult or Delayed Activation,1
 2021-11-01,"Material Split, Cut or Torn",1
-2021-11-01,Device Markings/Labelling Problem,1
 2021-12-01,Failure to Advance,154
 2021-12-01,Adverse Event Without Identified Device or Use Problem,145
 2021-12-01,Material Deformation,144
@@ -907,25 +907,25 @@ month,problem,reports
 2021-12-01,Improper or Incorrect Procedure or Method,5
 2021-12-01,Deflation Problem,5
 2021-12-01,Activation Failure,5
-2021-12-01,Migration or Expulsion of Device,4
 2021-12-01,Obstruction of Flow,4
+2021-12-01,Migration or Expulsion of Device,4
 2021-12-01,Fracture,4
 2021-12-01,Inflation Problem,3
 2021-12-01,Detachment of Device or Device Component,3
-2021-12-01,Device-Device Incompatibility,2
 2021-12-01,"Activation, Positioning or Separation Problem",2
-2021-12-01,Deformation Due to Compressive Stress,2
 2021-12-01,Leak/Splash,2
+2021-12-01,Deformation Due to Compressive Stress,2
+2021-12-01,Device-Device Incompatibility,2
 2021-12-01,Premature Activation,2
-2021-12-01,Stretched,1
-2021-12-01,Contamination /Decontamination Problem,1
-2021-12-01,Device Damaged by Another Device,1
-2021-12-01,Off-Label Use,1
 2021-12-01,Unsealed Device Packaging,1
 2021-12-01,Material Puncture/Hole,1
+2021-12-01,Off-Label Use,1
+2021-12-01,Device Damaged by Another Device,1
 2021-12-01,Material Integrity Problem,1
-2021-12-01,Patient-Device Incompatibility,1
+2021-12-01,Stretched,1
+2021-12-01,Contamination /Decontamination Problem,1
 2021-12-01,Mechanical Problem,1
+2021-12-01,Patient-Device Incompatibility,1
 2021-12-01,Peeled/Delaminated,1
 2021-12-01,Difficult or Delayed Activation,1
 2022-01-01,Material Deformation,119
@@ -943,32 +943,32 @@ month,problem,reports
 2022-01-01,Malposition of Device,5
 2022-01-01,Detachment of Device or Device Component,4
 2022-01-01,Deflation Problem,3
+2022-01-01,Inflation Problem,3
 2022-01-01,Defective Device,3
 2022-01-01,Leak/Splash,3
-2022-01-01,Inflation Problem,3
-2022-01-01,Product Quality Problem,2
 2022-01-01,Device Markings/Labelling Problem,2
+2022-01-01,Product Quality Problem,2
+2022-01-01,Migration or Expulsion of Device,2
+2022-01-01,"Activation, Positioning or Separation Problem",2
 2022-01-01,Device-Device Incompatibility,2
 2022-01-01,Migration,2
 2022-01-01,Deformation Due to Compressive Stress,2
 2022-01-01,Fracture,2
 2022-01-01,Material Integrity Problem,2
-2022-01-01,Migration or Expulsion of Device,2
-2022-01-01,"Activation, Positioning or Separation Problem",2
 2022-01-01,Inadequacy of Device Shape and/or Size,1
 2022-01-01,Patient-Device Incompatibility,1
 2022-01-01,Use of Device Problem,1
 2022-01-01,Burst Container or Vessel,1
-2022-01-01,Material Twisted/Bent,1
-2022-01-01,Device Contamination with Chemical or Other Material,1
 2022-01-01,Difficult to Open or Remove Packaging Material,1
+2022-01-01,Device Contamination with Chemical or Other Material,1
+2022-01-01,Material Twisted/Bent,1
 2022-01-01,Positioning Problem,1
-2022-01-01,Stretched,1
-2022-01-01,Positioning Failure,1
-2022-01-01,Difficult to Insert,1
 2022-01-01,Material Puncture/Hole,1
 2022-01-01,Device Damaged by Another Device,1
 2022-01-01,Unsealed Device Packaging,1
+2022-01-01,Difficult to Insert,1
+2022-01-01,Positioning Failure,1
+2022-01-01,Stretched,1
 2022-02-01,Material Deformation,128
 2022-02-01,Failure to Advance,110
 2022-02-01,Adverse Event Without Identified Device or Use Problem,92
@@ -976,33 +976,33 @@ month,problem,reports
 2022-02-01,Break,25
 2022-02-01,Difficult to Remove,24
 2022-02-01,Difficult to Advance,17
-2022-02-01,Patient-Device Incompatibility,10
 2022-02-01,Material Rupture,10
+2022-02-01,Patient-Device Incompatibility,10
 2022-02-01,Material Separation,8
-2022-02-01,Detachment of Device or Device Component,7
 2022-02-01,Inflation Problem,7
+2022-02-01,Detachment of Device or Device Component,7
+2022-02-01,Device Damaged by Another Device,5
 2022-02-01,Leak/Splash,5
 2022-02-01,Material Integrity Problem,5
-2022-02-01,Device Damaged by Another Device,5
 2022-02-01,Deflation Problem,4
-2022-02-01,Improper or Incorrect Procedure or Method,4
 2022-02-01,Obstruction of Flow,4
-2022-02-01,Positioning Failure,3
-2022-02-01,Entrapment of Device,3
-2022-02-01,Deformation Due to Compressive Stress,3
+2022-02-01,Improper or Incorrect Procedure or Method,4
 2022-02-01,"Activation, Positioning or Separation Problem",3
+2022-02-01,Positioning Failure,3
+2022-02-01,Deformation Due to Compressive Stress,3
+2022-02-01,Entrapment of Device,3
 2022-02-01,Burst Container or Vessel,2
 2022-02-01,Activation Failure,2
 2022-02-01,Difficult or Delayed Activation,2
+2022-02-01,Difficult or Delayed Positioning,2
 2022-02-01,Stretched,2
-2022-02-01,Device-Device Incompatibility,2
 2022-02-01,Physical Resistance/Sticking,2
 2022-02-01,Migration,2
-2022-02-01,Difficult or Delayed Positioning,2
+2022-02-01,Device-Device Incompatibility,2
 2022-02-01,Device Markings/Labelling Problem,1
+2022-02-01,Migration or Expulsion of Device,1
 2022-02-01,Difficult or Delayed Separation,1
 2022-02-01,Fracture,1
-2022-02-01,Migration or Expulsion of Device,1
 2022-03-01,Failure to Advance,142
 2022-03-01,Material Deformation,128
 2022-03-01,Adverse Event Without Identified Device or Use Problem,93
@@ -1015,45 +1015,45 @@ month,problem,reports
 2022-03-01,Deflation Problem,8
 2022-03-01,"Activation, Positioning or Separation Problem",7
 2022-03-01,Detachment of Device or Device Component,6
-2022-03-01,Fracture,6
 2022-03-01,Entrapment of Device,6
+2022-03-01,Fracture,6
 2022-03-01,Material Rupture,6
 2022-03-01,Material Integrity Problem,5
 2022-03-01,Material Separation,5
-2022-03-01,Stretched,4
 2022-03-01,Positioning Failure,4
+2022-03-01,Stretched,4
 2022-03-01,Inflation Problem,4
 2022-03-01,Device Damaged by Another Device,4
-2022-03-01,Positioning Problem,3
 2022-03-01,Leak/Splash,3
 2022-03-01,Obstruction of Flow,3
+2022-03-01,Positioning Problem,3
+2022-03-01,Device-Device Incompatibility,2
+2022-03-01,Expiration Date Error,2
 2022-03-01,Defective Device,2
 2022-03-01,Migration,2
-2022-03-01,Expiration Date Error,2
-2022-03-01,Device-Device Incompatibility,2
 2022-03-01,Deformation Due to Compressive Stress,2
 2022-03-01,Migration or Expulsion of Device,2
 2022-03-01,Material Puncture/Hole,2
-2022-03-01,Patient-Device Incompatibility,2
 2022-03-01,Inadequacy of Device Shape and/or Size,2
+2022-03-01,Patient-Device Incompatibility,2
 2022-03-01,Use of Device Problem,2
 2022-03-01,Device Markings/Labelling Problem,2
-2022-03-01,Failure to Deflate,2
 2022-03-01,Premature Activation,2
+2022-03-01,Failure to Deflate,2
 2022-03-01,Device Damaged Prior to Use,1
 2022-03-01,Physical Resistance/Sticking,1
 2022-03-01,Unraveled Material,1
-2022-03-01,Failure to Fold,1
 2022-03-01,Difficult or Delayed Positioning,1
 2022-03-01,Off-Label Use,1
 2022-03-01,Malposition of Device,1
+2022-03-01,Failure to Fold,1
 2022-03-01,Device Slipped,1
 2022-03-01,Product Quality Problem,1
-2022-03-01,Burst Container or Vessel,1
-2022-03-01,Packaging Problem,1
-2022-03-01,Activation Problem,1
-2022-03-01,Difficult to Open or Remove Packaging Material,1
 2022-03-01,Difficult or Delayed Activation,1
+2022-03-01,Difficult to Open or Remove Packaging Material,1
+2022-03-01,Packaging Problem,1
+2022-03-01,Burst Container or Vessel,1
+2022-03-01,Activation Problem,1
 2022-04-01,Failure to Advance,127
 2022-04-01,Adverse Event Without Identified Device or Use Problem,100
 2022-04-01,Material Deformation,93
@@ -1072,12 +1072,12 @@ month,problem,reports
 2022-04-01,Fracture,4
 2022-04-01,Burst Container or Vessel,3
 2022-04-01,Leak/Splash,3
-2022-04-01,Device-Device Incompatibility,3
 2022-04-01,Migration,3
 2022-04-01,Defective Device,3
-2022-04-01,Difficult or Delayed Activation,2
+2022-04-01,Device-Device Incompatibility,3
 2022-04-01,Patient-Device Incompatibility,2
 2022-04-01,Product Quality Problem,2
+2022-04-01,Difficult or Delayed Activation,2
 2022-04-01,Device Damaged by Another Device,2
 2022-04-01,Material Puncture/Hole,2
 2022-04-01,Entrapment of Device,2
@@ -1085,16 +1085,16 @@ month,problem,reports
 2022-04-01,Device Markings/Labelling Problem,1
 2022-04-01,Failure to Deflate,1
 2022-04-01,Premature Activation,1
-2022-04-01,Device Contamination with Chemical or Other Material,1
-2022-04-01,Difficult to Open or Remove Packaging Material,1
-2022-04-01,Failure to Eject,1
-2022-04-01,Device Fell,1
 2022-04-01,Material Twisted/Bent,1
-2022-04-01,Material Integrity Problem,1
-2022-04-01,Deformation Due to Compressive Stress,1
+2022-04-01,Device Fell,1
+2022-04-01,Device Contamination with Chemical or Other Material,1
+2022-04-01,Failure to Eject,1
+2022-04-01,Difficult to Open or Remove Packaging Material,1
 2022-04-01,No Apparent Adverse Event,1
-2022-04-01,Material Frayed,1
 2022-04-01,Positioning Problem,1
+2022-04-01,Material Frayed,1
+2022-04-01,Deformation Due to Compressive Stress,1
+2022-04-01,Material Integrity Problem,1
 2022-05-01,Material Deformation,104
 2022-05-01,Failure to Advance,91
 2022-05-01,Adverse Event Without Identified Device or Use Problem,82
@@ -1103,9 +1103,9 @@ month,problem,reports
 2022-05-01,Difficult to Remove,28
 2022-05-01,Difficult to Advance,22
 2022-05-01,Material Separation,12
-2022-05-01,Inflation Problem,7
-2022-05-01,Fracture,7
 2022-05-01,Detachment of Device or Device Component,7
+2022-05-01,Fracture,7
+2022-05-01,Inflation Problem,7
 2022-05-01,Material Rupture,6
 2022-05-01,Activation Failure,5
 2022-05-01,Use of Device Problem,4
@@ -1113,23 +1113,23 @@ month,problem,reports
 2022-05-01,"Activation, Positioning or Separation Problem",4
 2022-05-01,Failure to Deflate,3
 2022-05-01,Improper or Incorrect Procedure or Method,3
-2022-05-01,Patient-Device Incompatibility,2
-2022-05-01,Contamination,2
-2022-05-01,Burst Container or Vessel,2
-2022-05-01,Deflation Problem,2
 2022-05-01,Difficult to Open or Remove Packaging Material,2
+2022-05-01,Burst Container or Vessel,2
+2022-05-01,Patient-Device Incompatibility,2
+2022-05-01,Deflation Problem,2
+2022-05-01,Contamination,2
 2022-05-01,Difficult to Insert,2
 2022-05-01,Leak/Splash,2
-2022-05-01,Difficult or Delayed Activation,1
 2022-05-01,"Material Split, Cut or Torn",1
+2022-05-01,Difficult or Delayed Activation,1
 2022-05-01,Premature Activation,1
-2022-05-01,Positioning Failure,1
 2022-05-01,Defective Device,1
+2022-05-01,Positioning Failure,1
+2022-05-01,"Tear, Rip or Hole in Device Packaging",1
 2022-05-01,Positioning Problem,1
 2022-05-01,Separation Failure,1
 2022-05-01,Material Puncture/Hole,1
 2022-05-01,Component Misassembled,1
-2022-05-01,"Tear, Rip or Hole in Device Packaging",1
 2022-06-01,Failure to Advance,159
 2022-06-01,Adverse Event Without Identified Device or Use Problem,149
 2022-06-01,Material Deformation,137
@@ -1144,30 +1144,30 @@ month,problem,reports
 2022-06-01,Leak/Splash,6
 2022-06-01,Activation Failure,4
 2022-06-01,"Material Split, Cut or Torn",4
+2022-06-01,No Apparent Adverse Event,4
 2022-06-01,Entrapment of Device,4
 2022-06-01,Device-Device Incompatibility,4
-2022-06-01,No Apparent Adverse Event,4
-2022-06-01,Material Too Soft/Flexible,3
 2022-06-01,Material Rupture,3
 2022-06-01,Burst Container or Vessel,3
+2022-06-01,Material Too Soft/Flexible,3
+2022-06-01,"Activation, Positioning or Separation Problem",3
 2022-06-01,Obstruction of Flow,3
 2022-06-01,Device Damaged by Another Device,3
-2022-06-01,"Activation, Positioning or Separation Problem",3
-2022-06-01,Deformation Due to Compressive Stress,3
-2022-06-01,Material Integrity Problem,3
-2022-06-01,Fracture,3
 2022-06-01,Material Too Rigid or Stiff,3
+2022-06-01,Material Integrity Problem,3
+2022-06-01,Deformation Due to Compressive Stress,3
+2022-06-01,Fracture,3
 2022-06-01,Patient-Device Incompatibility,2
 2022-06-01,Deflation Problem,2
-2022-06-01,Defective Device,2
 2022-06-01,Positioning Failure,2
-2022-06-01,Device Contamination with Chemical or Other Material,1
-2022-06-01,Defective Component,1
-2022-06-01,Component Missing,1
+2022-06-01,Defective Device,2
 2022-06-01,Loose or Intermittent Connection,1
+2022-06-01,Component Missing,1
+2022-06-01,Defective Component,1
+2022-06-01,Device Contamination with Chemical or Other Material,1
 2022-06-01,Fluid/Blood Leak,1
-2022-06-01,Physical Resistance/Sticking,1
 2022-06-01,Failure to Fold,1
+2022-06-01,Physical Resistance/Sticking,1
 2022-07-01,Adverse Event Without Identified Device or Use Problem,122
 2022-07-01,Material Deformation,93
 2022-07-01,Failure to Advance,79
@@ -1184,32 +1184,32 @@ month,problem,reports
 2022-07-01,Material Separation,6
 2022-07-01,Difficult or Delayed Activation,5
 2022-07-01,Device Damaged by Another Device,5
-2022-07-01,Inflation Problem,5
 2022-07-01,Obstruction of Flow,5
+2022-07-01,Inflation Problem,5
 2022-07-01,"Activation, Positioning or Separation Problem",5
-2022-07-01,"Material Split, Cut or Torn",4
 2022-07-01,Patient-Device Incompatibility,4
-2022-07-01,Detachment of Device or Device Component,4
+2022-07-01,"Material Split, Cut or Torn",4
 2022-07-01,Deformation Due to Compressive Stress,4
+2022-07-01,Detachment of Device or Device Component,4
 2022-07-01,Device-Device Incompatibility,4
-2022-07-01,Migration or Expulsion of Device,3
 2022-07-01,Malposition of Device,3
-2022-07-01,Stretched,3
+2022-07-01,Migration or Expulsion of Device,3
 2022-07-01,Defective Device,3
+2022-07-01,Stretched,3
 2022-07-01,Fracture,2
 2022-07-01,Entrapment of Device,2
 2022-07-01,Difficult to Insert,2
 2022-07-01,Premature Activation,1
-2022-07-01,Unintended Movement,1
-2022-07-01,Defective Component,1
-2022-07-01,Packaging Problem,1
 2022-07-01,Deflation Problem,1
+2022-07-01,Packaging Problem,1
 2022-07-01,Contamination,1
 2022-07-01,Therapeutic or Diagnostic Output Failure,1
 2022-07-01,Component Missing,1
+2022-07-01,Defective Component,1
+2022-07-01,Unintended Movement,1
+2022-07-01,Positioning Problem,1
 2022-07-01,Material Integrity Problem,1
 2022-07-01,Physical Resistance/Sticking,1
-2022-07-01,Positioning Problem,1
 2022-08-01,Adverse Event Without Identified Device or Use Problem,92
 2022-08-01,Device Dislodged or Dislocated,55
 2022-08-01,Material Deformation,48
@@ -1232,24 +1232,24 @@ month,problem,reports
 2022-08-01,Material Separation,3
 2022-08-01,Off-Label Use,2
 2022-08-01,Detachment of Device or Device Component,2
-2022-08-01,Packaging Problem,2
 2022-08-01,Deflation Problem,2
-2022-08-01,Contamination,2
+2022-08-01,Packaging Problem,2
 2022-08-01,Burst Container or Vessel,2
+2022-08-01,Contamination,2
+2022-08-01,Material Protrusion/Extrusion,1
+2022-08-01,Device Difficult to Setup or Prepare,1
+2022-08-01,Device-Device Incompatibility,1
+2022-08-01,Difficult to Insert,1
 2022-08-01,"Tear, Rip or Hole in Device Packaging",1
 2022-08-01,Deformation Due to Compressive Stress,1
-2022-08-01,Device Difficult to Setup or Prepare,1
-2022-08-01,Material Protrusion/Extrusion,1
-2022-08-01,Difficult to Insert,1
-2022-08-01,Device-Device Incompatibility,1
 2022-08-01,Failure to Deflate,1
-2022-08-01,Device Markings/Labelling Problem,1
 2022-08-01,Premature Activation,1
-2022-08-01,Material Too Soft/Flexible,1
+2022-08-01,Device Markings/Labelling Problem,1
+2022-08-01,Patient-Device Incompatibility,1
 2022-08-01,Difficult or Delayed Activation,1
 2022-08-01,Device Contamination with Chemical or Other Material,1
+2022-08-01,Material Too Soft/Flexible,1
 2022-08-01,Product Quality Problem,1
-2022-08-01,Patient-Device Incompatibility,1
 2022-09-01,Adverse Event Without Identified Device or Use Problem,85
 2022-09-01,Failure to Advance,43
 2022-09-01,Material Deformation,39
@@ -1263,37 +1263,37 @@ month,problem,reports
 2022-09-01,Material Rupture,5
 2022-09-01,Material Separation,5
 2022-09-01,Premature Activation,4
-2022-09-01,Defective Device,3
-2022-09-01,Improper or Incorrect Procedure or Method,3
-2022-09-01,Device-Device Incompatibility,3
 2022-09-01,Inflation Problem,3
 2022-09-01,Leak/Splash,3
-2022-09-01,"Material Split, Cut or Torn",3
+2022-09-01,Device-Device Incompatibility,3
+2022-09-01,Improper or Incorrect Procedure or Method,3
+2022-09-01,Defective Device,3
 2022-09-01,Activation Failure,3
-2022-09-01,Difficult to Insert,2
+2022-09-01,"Material Split, Cut or Torn",3
 2022-09-01,Unsealed Device Packaging,2
-2022-09-01,Detachment of Device or Device Component,2
 2022-09-01,Entrapment of Device,2
+2022-09-01,Detachment of Device or Device Component,2
 2022-09-01,Deformation Due to Compressive Stress,2
-2022-09-01,Material Too Soft/Flexible,2
+2022-09-01,Difficult to Insert,2
 2022-09-01,Device Markings/Labelling Problem,2
+2022-09-01,Material Too Soft/Flexible,2
 2022-09-01,Separation Failure,1
-2022-09-01,Stretched,1
-2022-09-01,Physical Resistance/Sticking,1
-2022-09-01,Migration,1
-2022-09-01,Material Puncture/Hole,1
 2022-09-01,Fluid/Blood Leak,1
+2022-09-01,Material Puncture/Hole,1
 2022-09-01,Migration or Expulsion of Device,1
 2022-09-01,Material Integrity Problem,1
-2022-09-01,Patient-Device Incompatibility,1
-2022-09-01,Deflation Problem,1
+2022-09-01,Stretched,1
+2022-09-01,Migration,1
+2022-09-01,Physical Resistance/Sticking,1
 2022-09-01,Burst Container or Vessel,1
 2022-09-01,Use of Device Problem,1
-2022-09-01,Peeled/Delaminated,1
+2022-09-01,Patient-Device Incompatibility,1
+2022-09-01,Deflation Problem,1
+2022-09-01,Difficult to Flush,1
 2022-09-01,Patient Device Interaction Problem,1
+2022-09-01,Peeled/Delaminated,1
 2022-09-01,Difficult or Delayed Activation,1
 2022-09-01,Device Contamination with Chemical or Other Material,1
-2022-09-01,Difficult to Flush,1
 2022-10-01,Adverse Event Without Identified Device or Use Problem,102
 2022-10-01,Device Dislodged or Dislocated,52
 2022-10-01,Material Deformation,50
@@ -1304,15 +1304,15 @@ month,problem,reports
 2022-10-01,Obstruction of Flow,8
 2022-10-01,Defective Device,5
 2022-10-01,Difficult to Advance,5
-2022-10-01,Improper or Incorrect Procedure or Method,4
 2022-10-01,Migration or Expulsion of Device,4
+2022-10-01,Improper or Incorrect Procedure or Method,4
 2022-10-01,Deflation Problem,4
 2022-10-01,Inflation Problem,3
 2022-10-01,Fracture,3
 2022-10-01,Detachment of Device or Device Component,3
-2022-10-01,Material Rupture,3
-2022-10-01,Use of Device Problem,3
 2022-10-01,Burst Container or Vessel,3
+2022-10-01,Use of Device Problem,3
+2022-10-01,Material Rupture,3
 2022-10-01,Device Markings/Labelling Problem,3
 2022-10-01,Positioning Problem,2
 2022-10-01,Device Damaged by Another Device,2
@@ -1320,14 +1320,14 @@ month,problem,reports
 2022-10-01,Leak/Splash,2
 2022-10-01,Patient-Device Incompatibility,2
 2022-10-01,"Material Split, Cut or Torn",2
-2022-10-01,Difficult to Insert,1
-2022-10-01,Stretched,1
 2022-10-01,Difficult or Delayed Positioning,1
+2022-10-01,Stretched,1
+2022-10-01,Difficult to Insert,1
 2022-10-01,Wrong Label,1
-2022-10-01,Material Separation,1
-2022-10-01,Difficult to Open or Remove Packaging Material,1
 2022-10-01,Premature Activation,1
 2022-10-01,Material Perforation,1
+2022-10-01,Material Separation,1
+2022-10-01,Difficult to Open or Remove Packaging Material,1
 2022-11-01,Adverse Event Without Identified Device or Use Problem,88
 2022-11-01,Material Deformation,64
 2022-11-01,Device Dislodged or Dislocated,47
@@ -1340,37 +1340,37 @@ month,problem,reports
 2022-11-01,Activation Failure,6
 2022-11-01,Fracture,5
 2022-11-01,Migration or Expulsion of Device,5
-2022-11-01,"Activation, Positioning or Separation Problem",5
 2022-11-01,Device Damaged by Another Device,5
+2022-11-01,"Activation, Positioning or Separation Problem",5
 2022-11-01,Deflation Problem,4
-2022-11-01,Detachment of Device or Device Component,3
 2022-11-01,Leak/Splash,3
+2022-11-01,Detachment of Device or Device Component,3
 2022-11-01,Inflation Problem,3
 2022-11-01,"Material Split, Cut or Torn",3
 2022-11-01,Failure to Deflate,3
 2022-11-01,Deformation Due to Compressive Stress,2
-2022-11-01,Material Integrity Problem,2
 2022-11-01,Entrapment of Device,2
-2022-11-01,Obstruction of Flow,2
+2022-11-01,Material Integrity Problem,2
 2022-11-01,Device-Device Incompatibility,2
 2022-11-01,Defective Device,2
+2022-11-01,Obstruction of Flow,2
 2022-11-01,Device Contamination with Chemical or Other Material,2
 2022-11-01,Product Quality Problem,2
 2022-11-01,Material Separation,2
-2022-11-01,Malposition of Device,1
 2022-11-01,Stretched,1
-2022-11-01,Physical Resistance/Sticking,1
 2022-11-01,Difficult to Insert,1
-2022-11-01,Difficult to Open or Remove Packaging Material,1
+2022-11-01,Physical Resistance/Sticking,1
+2022-11-01,Malposition of Device,1
 2022-11-01,Material Too Soft/Flexible,1
-2022-11-01,Premature Activation,1
-2022-11-01,Packaging Problem,1
-2022-11-01,Burst Container or Vessel,1
-2022-11-01,Use of Device Problem,1
-2022-11-01,Patient-Device Incompatibility,1
-2022-11-01,Wrong Label,1
+2022-11-01,Difficult to Open or Remove Packaging Material,1
 2022-11-01,Material Twisted/Bent,1
 2022-11-01,Component Missing,1
+2022-11-01,Premature Activation,1
+2022-11-01,Packaging Problem,1
+2022-11-01,Use of Device Problem,1
+2022-11-01,Wrong Label,1
+2022-11-01,Patient-Device Incompatibility,1
+2022-11-01,Burst Container or Vessel,1
 2022-12-01,Adverse Event Without Identified Device or Use Problem,99
 2022-12-01,Material Deformation,47
 2022-12-01,Failure to Advance,43
@@ -1379,37 +1379,37 @@ month,problem,reports
 2022-12-01,Break,27
 2022-12-01,Difficult to Advance,12
 2022-12-01,Detachment of Device or Device Component,7
-2022-12-01,Fracture,6
 2022-12-01,Entrapment of Device,6
+2022-12-01,Fracture,6
 2022-12-01,Material Rupture,6
 2022-12-01,Inflation Problem,5
 2022-12-01,Obstruction of Flow,5
 2022-12-01,Device Damaged by Another Device,5
 2022-12-01,Material Separation,5
-2022-12-01,Improper or Incorrect Procedure or Method,4
 2022-12-01,Difficult or Delayed Positioning,4
 2022-12-01,Material Integrity Problem,4
+2022-12-01,Improper or Incorrect Procedure or Method,4
 2022-12-01,"Activation, Positioning or Separation Problem",3
 2022-12-01,Activation Failure,3
-2022-12-01,Migration,2
-2022-12-01,Stretched,2
-2022-12-01,Defective Device,2
 2022-12-01,Deformation Due to Compressive Stress,2
+2022-12-01,Stretched,2
+2022-12-01,Migration,2
+2022-12-01,Defective Device,2
 2022-12-01,Burst Container or Vessel,2
-2022-12-01,Difficult or Delayed Activation,2
 2022-12-01,Failure to Deflate,2
+2022-12-01,Difficult or Delayed Activation,2
 2022-12-01,Material Frayed,1
-2022-12-01,Physical Resistance/Sticking,1
-2022-12-01,Difficult to Insert,1
-2022-12-01,Device-Device Incompatibility,1
-2022-12-01,Device Contaminated During Manufacture or Shipping,1
-2022-12-01,Malposition of Device,1
 2022-12-01,Fluid/Blood Leak,1
+2022-12-01,Malposition of Device,1
 2022-12-01,Component Misassembled,1
 2022-12-01,Leak/Splash,1
+2022-12-01,Physical Resistance/Sticking,1
+2022-12-01,Device Contaminated During Manufacture or Shipping,1
+2022-12-01,Device-Device Incompatibility,1
+2022-12-01,Difficult to Insert,1
 2022-12-01,Use of Device Problem,1
-2022-12-01,"Material Split, Cut or Torn",1
 2022-12-01,Activation Problem,1
+2022-12-01,"Material Split, Cut or Torn",1
 2023-01-01,Adverse Event Without Identified Device or Use Problem,89
 2023-01-01,Device Dislodged or Dislocated,54
 2023-01-01,Material Deformation,47
@@ -1427,21 +1427,21 @@ month,problem,reports
 2023-01-01,Material Separation,3
 2023-01-01,Burst Container or Vessel,3
 2023-01-01,Entrapment of Device,3
-2023-01-01,Failure to Deflate,2
-2023-01-01,Deflation Problem,2
 2023-01-01,Use of Device Problem,2
 2023-01-01,Patient-Device Incompatibility,2
+2023-01-01,Deflation Problem,2
+2023-01-01,Failure to Deflate,2
 2023-01-01,Material Integrity Problem,2
 2023-01-01,Activation Failure,1
 2023-01-01,Deformation Due to Compressive Stress,1
-2023-01-01,Obstruction of Flow,1
-2023-01-01,Off-Label Use,1
-2023-01-01,Positioning Problem,1
-2023-01-01,Scratched Material,1
-2023-01-01,Device-Device Incompatibility,1
-2023-01-01,Contamination /Decontamination Problem,1
-2023-01-01,Improper or Incorrect Procedure or Method,1
 2023-01-01,Defective Device,1
+2023-01-01,Contamination /Decontamination Problem,1
+2023-01-01,Device-Device Incompatibility,1
+2023-01-01,Improper or Incorrect Procedure or Method,1
+2023-01-01,Off-Label Use,1
+2023-01-01,Obstruction of Flow,1
+2023-01-01,Scratched Material,1
+2023-01-01,Positioning Problem,1
 2023-02-01,Adverse Event Without Identified Device or Use Problem,84
 2023-02-01,Failure to Advance,53
 2023-02-01,Material Deformation,49
@@ -1455,32 +1455,32 @@ month,problem,reports
 2023-02-01,Fracture,7
 2023-02-01,Leak/Splash,7
 2023-02-01,Detachment of Device or Device Component,6
-2023-02-01,Device Damaged by Another Device,5
 2023-02-01,Improper or Incorrect Procedure or Method,5
+2023-02-01,Device Damaged by Another Device,5
 2023-02-01,Material Integrity Problem,4
 2023-02-01,"Activation, Positioning or Separation Problem",4
 2023-02-01,Deflation Problem,4
 2023-02-01,Material Rupture,4
 2023-02-01,Entrapment of Device,3
-2023-02-01,Difficult or Delayed Positioning,3
 2023-02-01,Device-Device Incompatibility,3
+2023-02-01,Difficult or Delayed Positioning,3
 2023-02-01,Device Markings/Labelling Problem,3
 2023-02-01,Patient-Device Incompatibility,3
-2023-02-01,Physical Resistance/Sticking,2
 2023-02-01,Defective Device,2
 2023-02-01,Difficult to Insert,2
 2023-02-01,Migration,2
+2023-02-01,Physical Resistance/Sticking,2
 2023-02-01,"Material Split, Cut or Torn",2
-2023-02-01,Burst Container or Vessel,2
 2023-02-01,Material Separation,2
-2023-02-01,Migration or Expulsion of Device,1
-2023-02-01,Retraction Problem,1
+2023-02-01,Burst Container or Vessel,2
 2023-02-01,Device Contaminated During Manufacture or Shipping,1
+2023-02-01,Retraction Problem,1
+2023-02-01,Migration or Expulsion of Device,1
+2023-02-01,Component Missing,1
+2023-02-01,Product Quality Problem,1
 2023-02-01,Premature Activation,1
 2023-02-01,Inaccurate Information,1
 2023-02-01,Contamination,1
-2023-02-01,Component Missing,1
-2023-02-01,Product Quality Problem,1
 2023-03-01,Adverse Event Without Identified Device or Use Problem,105
 2023-03-01,Device Dislodged or Dislocated,56
 2023-03-01,Failure to Advance,55
@@ -1499,20 +1499,20 @@ month,problem,reports
 2023-03-01,Failure to Deflate,4
 2023-03-01,Obstruction of Flow,4
 2023-03-01,Burst Container or Vessel,3
-2023-03-01,Entrapment of Device,3
 2023-03-01,Leak/Splash,3
+2023-03-01,Entrapment of Device,3
 2023-03-01,Activation Failure,2
 2023-03-01,Deflation Problem,2
 2023-03-01,Patient Device Interaction Problem,2
 2023-03-01,Premature Activation,1
 2023-03-01,Material Perforation,1
+2023-03-01,Packaging Problem,1
+2023-03-01,Contamination,1
+2023-03-01,Insufficient Device Problem Information,1
+2023-03-01,Use of Device Problem,1
 2023-03-01,"Material Split, Cut or Torn",1
 2023-03-01,Difficult to Open or Remove Packaging Material,1
 2023-03-01,Difficult or Delayed Activation,1
-2023-03-01,Insufficient Device Problem Information,1
-2023-03-01,Contamination,1
-2023-03-01,Use of Device Problem,1
-2023-03-01,Packaging Problem,1
 2023-03-01,Migration or Expulsion of Device,1
 2023-03-01,Deformation Due to Compressive Stress,1
 2023-03-01,Migration,1
@@ -1526,38 +1526,38 @@ month,problem,reports
 2023-04-01,Material Separation,10
 2023-04-01,Difficult to Advance,8
 2023-04-01,Fracture,8
-2023-04-01,Material Rupture,7
 2023-04-01,Failure to Deflate,7
+2023-04-01,Material Rupture,7
 2023-04-01,Improper or Incorrect Procedure or Method,7
-2023-04-01,Inflation Problem,7
 2023-04-01,Leak/Splash,7
-2023-04-01,Deflation Problem,4
+2023-04-01,Inflation Problem,7
 2023-04-01,Burst Container or Vessel,4
+2023-04-01,Deflation Problem,4
 2023-04-01,Defective Device,4
-2023-04-01,Difficult or Delayed Positioning,4
-2023-04-01,Entrapment of Device,4
 2023-04-01,Detachment of Device or Device Component,4
+2023-04-01,Entrapment of Device,4
+2023-04-01,Difficult or Delayed Positioning,4
 2023-04-01,Activation Failure,3
 2023-04-01,Device Damaged by Another Device,3
 2023-04-01,"Activation, Positioning or Separation Problem",3
-2023-04-01,Patient-Device Incompatibility,2
-2023-04-01,Wrong Label,2
-2023-04-01,Use of Device Problem,2
 2023-04-01,Difficult or Delayed Activation,2
 2023-04-01,Device Markings/Labelling Problem,2
+2023-04-01,Wrong Label,2
+2023-04-01,Use of Device Problem,2
+2023-04-01,Patient-Device Incompatibility,2
 2023-04-01,Device-Device Incompatibility,2
 2023-04-01,Migration,2
 2023-04-01,Material Integrity Problem,2
-2023-04-01,Inadequacy of Device Shape and/or Size,1
-2023-04-01,Insufficient Device Problem Information,1
-2023-04-01,Contamination,1
 2023-04-01,Difficult to Open or Remove Packaging Material,1
-2023-04-01,Physical Resistance/Sticking,1
+2023-04-01,Inadequacy of Device Shape and/or Size,1
+2023-04-01,Contamination,1
+2023-04-01,Insufficient Device Problem Information,1
 2023-04-01,Difficult to Insert,1
 2023-04-01,Stretched,1
+2023-04-01,Physical Resistance/Sticking,1
+2023-04-01,Deformation Due to Compressive Stress,1
 2023-04-01,Positioning Problem,1
 2023-04-01,Migration or Expulsion of Device,1
-2023-04-01,Deformation Due to Compressive Stress,1
 2023-05-01,Adverse Event Without Identified Device or Use Problem,73
 2023-05-01,Material Deformation,46
 2023-05-01,Failure to Advance,43
@@ -1573,27 +1573,27 @@ month,problem,reports
 2023-05-01,Material Rupture,4
 2023-05-01,Detachment of Device or Device Component,4
 2023-05-01,"Material Split, Cut or Torn",3
-2023-05-01,Positioning Problem,3
 2023-05-01,Entrapment of Device,3
+2023-05-01,Positioning Problem,3
 2023-05-01,Burst Container or Vessel,2
 2023-05-01,Use of Device Problem,2
 2023-05-01,Difficult to Insert,2
 2023-05-01,Improper or Incorrect Procedure or Method,2
+2023-05-01,Leak/Splash,2
 2023-05-01,"Activation, Positioning or Separation Problem",2
 2023-05-01,Inflation Problem,2
-2023-05-01,Leak/Splash,2
+2023-05-01,Poor Visibility,1
 2023-05-01,Product Quality Problem,1
 2023-05-01,Material Twisted/Bent,1
-2023-05-01,Poor Visibility,1
-2023-05-01,Deflation Problem,1
-2023-05-01,Application Program Problem: Medication Error,1
-2023-05-01,Wrong Label,1
-2023-05-01,Patient-Device Incompatibility,1
 2023-05-01,Failure to Deflate,1
-2023-05-01,Retraction Problem,1
+2023-05-01,Application Program Problem: Medication Error,1
+2023-05-01,Patient-Device Incompatibility,1
+2023-05-01,Wrong Label,1
+2023-05-01,Deflation Problem,1
 2023-05-01,Device Difficult to Setup or Prepare,1
-2023-05-01,Defective Device,1
+2023-05-01,Retraction Problem,1
 2023-05-01,Migration,1
+2023-05-01,Defective Device,1
 2023-05-01,Off-Label Use,1
 2023-06-01,Adverse Event Without Identified Device or Use Problem,103
 2023-06-01,Device Dislodged or Dislocated,45
@@ -1612,33 +1612,33 @@ month,problem,reports
 2023-06-01,Inflation Problem,4
 2023-06-01,Deflation Problem,4
 2023-06-01,Migration,3
-2023-06-01,Positioning Problem,3
 2023-06-01,Material Integrity Problem,3
+2023-06-01,Positioning Problem,3
 2023-06-01,Improper or Incorrect Procedure or Method,2
-2023-06-01,Entrapment of Device,2
 2023-06-01,"Tear, Rip or Hole in Device Packaging",2
+2023-06-01,Entrapment of Device,2
 2023-06-01,Off-Label Use,2
 2023-06-01,Migration or Expulsion of Device,2
-2023-06-01,Device Damaged by Another Device,2
 2023-06-01,Obstruction of Flow,2
+2023-06-01,Device Damaged by Another Device,2
 2023-06-01,Patient Device Interaction Problem,2
-2023-06-01,Failure to Deflate,2
-2023-06-01,Premature Activation,2
 2023-06-01,Unintended Movement,2
+2023-06-01,Premature Activation,2
+2023-06-01,Failure to Deflate,2
+2023-06-01,Positioning Failure,1
 2023-06-01,Device-Device Incompatibility,1
 2023-06-01,Stretched,1
-2023-06-01,Positioning Failure,1
-2023-06-01,No Apparent Adverse Event,1
 2023-06-01,Leak/Splash,1
 2023-06-01,Difficult or Delayed Positioning,1
 2023-06-01,Fluid/Blood Leak,1
-2023-06-01,Contamination,1
-2023-06-01,Burst Container or Vessel,1
-2023-06-01,Use of Device Problem,1
-2023-06-01,Difficult to Flush,1
+2023-06-01,No Apparent Adverse Event,1
+2023-06-01,"Material Split, Cut or Torn",1
 2023-06-01,Difficult or Delayed Activation,1
 2023-06-01,Defective Component,1
-2023-06-01,"Material Split, Cut or Torn",1
+2023-06-01,Burst Container or Vessel,1
+2023-06-01,Contamination,1
+2023-06-01,Use of Device Problem,1
+2023-06-01,Difficult to Flush,1
 2023-07-01,Adverse Event Without Identified Device or Use Problem,108
 2023-07-01,Material Deformation,46
 2023-07-01,Device Dislodged or Dislocated,44
@@ -1656,8 +1656,8 @@ month,problem,reports
 2023-07-01,Detachment of Device or Device Component,6
 2023-07-01,"Material Split, Cut or Torn",6
 2023-07-01,Obstruction of Flow,5
-2023-07-01,Leak/Splash,5
 2023-07-01,Fracture,5
+2023-07-01,Leak/Splash,5
 2023-07-01,Material Separation,5
 2023-07-01,Deformation Due to Compressive Stress,4
 2023-07-01,Failure to Deflate,4
@@ -1665,20 +1665,20 @@ month,problem,reports
 2023-07-01,Deflation Problem,3
 2023-07-01,"Activation, Positioning or Separation Problem",2
 2023-07-01,Unsealed Device Packaging,2
-2023-07-01,Material Integrity Problem,2
 2023-07-01,Device-Device Incompatibility,2
+2023-07-01,Material Integrity Problem,2
 2023-07-01,Inadequacy of Device Shape and/or Size,2
+2023-07-01,Migration or Expulsion of Device,1
 2023-07-01,Material Puncture/Hole,1
 2023-07-01,Malposition of Device,1
-2023-07-01,Migration or Expulsion of Device,1
 2023-07-01,No Apparent Adverse Event,1
 2023-07-01,Positioning Failure,1
 2023-07-01,Migration,1
-2023-07-01,Difficult to Open or Remove Packaging Material,1
-2023-07-01,Device Contamination with Chemical or Other Material,1
+2023-07-01,Burst Container or Vessel,1
 2023-07-01,Use of Device Problem,1
 2023-07-01,Contamination,1
-2023-07-01,Burst Container or Vessel,1
+2023-07-01,Device Contamination with Chemical or Other Material,1
+2023-07-01,Difficult to Open or Remove Packaging Material,1
 2023-08-01,Adverse Event Without Identified Device or Use Problem,85
 2023-08-01,Material Deformation,45
 2023-08-01,Device Dislodged or Dislocated,38
@@ -1693,55 +1693,55 @@ month,problem,reports
 2023-08-01,Device Damaged by Another Device,5
 2023-08-01,Leak/Splash,5
 2023-08-01,Activation Failure,5
-2023-08-01,Defective Device,4
 2023-08-01,Entrapment of Device,4
+2023-08-01,Defective Device,4
 2023-08-01,Obstruction of Flow,3
 2023-08-01,Inflation Problem,3
 2023-08-01,Detachment of Device or Device Component,3
 2023-08-01,Burst Container or Vessel,3
 2023-08-01,Deflation Problem,3
 2023-08-01,Use of Device Problem,2
-2023-08-01,Material Separation,2
-2023-08-01,Defective Component,2
-2023-08-01,"Material Split, Cut or Torn",2
 2023-08-01,Failure to Deflate,2
-2023-08-01,Migration,1
-2023-08-01,Difficult to Insert,1
+2023-08-01,Material Separation,2
+2023-08-01,"Material Split, Cut or Torn",2
+2023-08-01,Defective Component,2
 2023-08-01,"Activation, Positioning or Separation Problem",1
 2023-08-01,Material Puncture/Hole,1
-2023-08-01,Poor Visibility,1
-2023-08-01,Material Twisted/Bent,1
-2023-08-01,Difficult or Delayed Activation,1
-2023-08-01,Device Contamination with Chemical or Other Material,1
+2023-08-01,Migration,1
+2023-08-01,Difficult to Insert,1
 2023-08-01,Device Markings/Labelling Problem,1
+2023-08-01,Material Twisted/Bent,1
+2023-08-01,Poor Visibility,1
+2023-08-01,Device Contamination with Chemical or Other Material,1
+2023-08-01,Difficult or Delayed Activation,1
 2023-09-01,Adverse Event Without Identified Device or Use Problem,78
 2023-09-01,Material Deformation,45
 2023-09-01,Device Dislodged or Dislocated,43
 2023-09-01,Failure to Advance,35
 2023-09-01,Break,27
-2023-09-01,Positioning Problem,24
 2023-09-01,Difficult to Remove,24
+2023-09-01,Positioning Problem,24
 2023-09-01,Difficult to Advance,10
 2023-09-01,Activation Failure,9
 2023-09-01,Improper or Incorrect Procedure or Method,8
 2023-09-01,Material Rupture,8
 2023-09-01,Fracture,5
 2023-09-01,Detachment of Device or Device Component,4
-2023-09-01,"Activation, Positioning or Separation Problem",4
 2023-09-01,Obstruction of Flow,4
+2023-09-01,"Activation, Positioning or Separation Problem",4
 2023-09-01,Material Integrity Problem,3
-2023-09-01,Inflation Problem,3
 2023-09-01,Device Damaged by Another Device,3
+2023-09-01,Inflation Problem,3
 2023-09-01,Material Separation,3
 2023-09-01,Device-Device Incompatibility,2
 2023-09-01,Entrapment of Device,2
-2023-09-01,Burst Container or Vessel,2
 2023-09-01,Difficult or Delayed Activation,2
+2023-09-01,Burst Container or Vessel,2
 2023-09-01,Defective Device,1
-2023-09-01,Unintended System Motion,1
-2023-09-01,Deformation Due to Compressive Stress,1
 2023-09-01,Leak/Splash,1
+2023-09-01,Deformation Due to Compressive Stress,1
 2023-09-01,Migration or Expulsion of Device,1
+2023-09-01,Unintended System Motion,1
 2023-09-01,Use of Device Problem,1
 2023-09-01,Insufficient Device Problem Information,1
 2023-09-01,Failure to Deflate,1
@@ -1762,26 +1762,26 @@ month,problem,reports
 2023-10-01,Entrapment of Device,5
 2023-10-01,Material Rupture,5
 2023-10-01,Activation Failure,5
-2023-10-01,Difficult to Insert,4
 2023-10-01,Leak/Splash,4
+2023-10-01,Difficult to Insert,4
 2023-10-01,Burst Container or Vessel,4
 2023-10-01,Obstruction of Flow,3
 2023-10-01,Component Missing,3
 2023-10-01,"Material Split, Cut or Torn",3
-2023-10-01,Migration,2
 2023-10-01,Detachment of Device or Device Component,2
 2023-10-01,Deformation Due to Compressive Stress,2
+2023-10-01,Migration,2
 2023-10-01,Use of Device Problem,2
-2023-10-01,Positioning Failure,1
-2023-10-01,Device-Device Incompatibility,1
-2023-10-01,Difficult or Delayed Positioning,1
 2023-10-01,"Activation, Positioning or Separation Problem",1
+2023-10-01,Difficult or Delayed Positioning,1
+2023-10-01,Device-Device Incompatibility,1
+2023-10-01,Positioning Failure,1
 2023-10-01,Deflation Problem,1
 2023-10-01,Contamination,1
-2023-10-01,Product Quality Problem,1
-2023-10-01,Defective Component,1
 2023-10-01,Failure to Deflate,1
 2023-10-01,Premature Activation,1
+2023-10-01,Product Quality Problem,1
+2023-10-01,Defective Component,1
 2023-11-01,Adverse Event Without Identified Device or Use Problem,70
 2023-11-01,Device Dislodged or Dislocated,54
 2023-11-01,Failure to Advance,50
@@ -1792,43 +1792,43 @@ month,problem,reports
 2023-11-01,Difficult to Advance,8
 2023-11-01,Device Damaged by Another Device,8
 2023-11-01,Material Separation,7
-2023-11-01,Activation Failure,6
 2023-11-01,Material Rupture,6
+2023-11-01,Activation Failure,6
 2023-11-01,Leak/Splash,5
 2023-11-01,Fracture,5
 2023-11-01,Improper or Incorrect Procedure or Method,5
 2023-11-01,Failure to Deflate,4
 2023-11-01,Entrapment of Device,4
 2023-11-01,Detachment of Device or Device Component,3
-2023-11-01,Inflation Problem,3
 2023-11-01,Difficult to Insert,3
+2023-11-01,Inflation Problem,3
 2023-11-01,Burst Container or Vessel,2
 2023-11-01,Deformation Due to Compressive Stress,2
-2023-11-01,"Activation, Positioning or Separation Problem",2
-2023-11-01,Material Puncture/Hole,2
 2023-11-01,Stretched,2
+2023-11-01,Material Puncture/Hole,2
+2023-11-01,"Activation, Positioning or Separation Problem",2
 2023-11-01,Unintended Movement,1
-2023-11-01,Product Quality Problem,1
 2023-11-01,Loose or Intermittent Connection,1
-2023-11-01,Use of Device Problem,1
-2023-11-01,Wrong Label,1
-2023-11-01,Contamination,1
+2023-11-01,Product Quality Problem,1
 2023-11-01,Packaging Problem,1
+2023-11-01,Contamination,1
+2023-11-01,Wrong Label,1
+2023-11-01,Use of Device Problem,1
 2023-11-01,Material Integrity Problem,1
-2023-11-01,Difficult or Delayed Positioning,1
+2023-11-01,Defective Device,1
+2023-11-01,Positioning Failure,1
 2023-11-01,Delivered as Unsterile Product,1
 2023-11-01,Malposition of Device,1
 2023-11-01,Migration or Expulsion of Device,1
+2023-11-01,Difficult or Delayed Positioning,1
 2023-11-01,No Apparent Adverse Event,1
-2023-11-01,Positioning Failure,1
-2023-11-01,Defective Device,1
 2023-12-01,Adverse Event Without Identified Device or Use Problem,61
 2023-12-01,Material Deformation,55
 2023-12-01,Failure to Advance,36
 2023-12-01,Device Dislodged or Dislocated,34
 2023-12-01,Break,17
-2023-12-01,Positioning Problem,16
 2023-12-01,Difficult to Remove,16
+2023-12-01,Positioning Problem,16
 2023-12-01,Difficult to Advance,12
 2023-12-01,Activation Failure,10
 2023-12-01,Fracture,9
@@ -1837,24 +1837,24 @@ month,problem,reports
 2023-12-01,Detachment of Device or Device Component,4
 2023-12-01,Material Separation,3
 2023-12-01,Improper or Incorrect Procedure or Method,3
+2023-12-01,Deformation Due to Compressive Stress,3
+2023-12-01,Leak/Splash,3
 2023-12-01,Fluid/Blood Leak,3
 2023-12-01,Inflation Problem,3
-2023-12-01,Leak/Splash,3
-2023-12-01,Deformation Due to Compressive Stress,3
 2023-12-01,Patient Device Interaction Problem,2
-2023-12-01,Deflation Problem,2
-2023-12-01,Burst Container or Vessel,2
 2023-12-01,"Material Split, Cut or Torn",2
+2023-12-01,Burst Container or Vessel,2
+2023-12-01,Deflation Problem,2
 2023-12-01,Difficult to Insert,2
-2023-12-01,"Activation, Positioning or Separation Problem",2
 2023-12-01,Entrapment of Device,2
+2023-12-01,"Activation, Positioning or Separation Problem",2
+2023-12-01,Failure to Deflate,1
 2023-12-01,Patient-Device Incompatibility,1
 2023-12-01,Use of Device Problem,1
 2023-12-01,Contamination,1
-2023-12-01,Failure to Deflate,1
 2023-12-01,Device-Device Incompatibility,1
-2023-12-01,Defective Device,1
 2023-12-01,Positioning Failure,1
+2023-12-01,Defective Device,1
 2023-12-01,No Apparent Adverse Event,1
 2023-12-01,Obstruction of Flow,1
 2024-01-01,Adverse Event Without Identified Device or Use Problem,126
@@ -1865,28 +1865,28 @@ month,problem,reports
 2024-01-01,Difficult to Remove,21
 2024-01-01,Break,20
 2024-01-01,Difficult to Advance,15
-2024-01-01,Device Damaged by Another Device,8
-2024-01-01,"Activation, Positioning or Separation Problem",8
 2024-01-01,Inflation Problem,8
+2024-01-01,"Activation, Positioning or Separation Problem",8
+2024-01-01,Device Damaged by Another Device,8
 2024-01-01,Detachment of Device or Device Component,8
 2024-01-01,Improper or Incorrect Procedure or Method,7
 2024-01-01,Entrapment of Device,6
 2024-01-01,Fracture,4
 2024-01-01,Material Rupture,4
 2024-01-01,Material Separation,4
-2024-01-01,Positioning Failure,2
 2024-01-01,Leak/Splash,2
+2024-01-01,Positioning Failure,2
 2024-01-01,Use of Device Problem,2
 2024-01-01,Deflation Problem,2
 2024-01-01,Burst Container or Vessel,2
-2024-01-01,"Material Split, Cut or Torn",2
 2024-01-01,Failure to Deflate,2
-2024-01-01,Activation Failure,2
 2024-01-01,Device Markings/Labelling Problem,2
-2024-01-01,Device-Device Incompatibility,1
+2024-01-01,Activation Failure,2
+2024-01-01,"Material Split, Cut or Torn",2
 2024-01-01,Material Puncture/Hole,1
-2024-01-01,Deformation Due to Compressive Stress,1
 2024-01-01,Material Integrity Problem,1
+2024-01-01,Deformation Due to Compressive Stress,1
+2024-01-01,Device-Device Incompatibility,1
 2024-01-01,Wrong Label,1
 2024-02-01,Adverse Event Without Identified Device or Use Problem,88
 2024-02-01,Material Deformation,66
@@ -1902,9 +1902,9 @@ month,problem,reports
 2024-02-01,Fracture,7
 2024-02-01,Material Rupture,7
 2024-02-01,"Activation, Positioning or Separation Problem",6
+2024-02-01,Improper or Incorrect Procedure or Method,6
 2024-02-01,Material Integrity Problem,6
 2024-02-01,Detachment of Device or Device Component,6
-2024-02-01,Improper or Incorrect Procedure or Method,6
 2024-02-01,Device Damaged by Another Device,4
 2024-02-01,Activation Failure,4
 2024-02-01,Device-Device Incompatibility,3
@@ -1913,12 +1913,12 @@ month,problem,reports
 2024-02-01,Difficult to Insert,2
 2024-02-01,Material Separation,2
 2024-02-01,Unsealed Device Packaging,1
-2024-02-01,Deformation Due to Compressive Stress,1
 2024-02-01,Nonstandard Device,1
+2024-02-01,Deformation Due to Compressive Stress,1
 2024-02-01,Device Markings/Labelling Problem,1
 2024-02-01,Failure to Deflate,1
-2024-02-01,Difficult to Open or Remove Packaging Material,1
 2024-02-01,"Material Split, Cut or Torn",1
+2024-02-01,Difficult to Open or Remove Packaging Material,1
 2024-03-01,Adverse Event Without Identified Device or Use Problem,91
 2024-03-01,Failure to Advance,67
 2024-03-01,Material Deformation,54
@@ -1937,29 +1937,29 @@ month,problem,reports
 2024-03-01,Device Damaged by Another Device,4
 2024-03-01,Stretched,3
 2024-03-01,Inflation Problem,3
-2024-03-01,Wrong Label,2
-2024-03-01,Deflation Problem,2
-2024-03-01,Difficult or Delayed Activation,2
 2024-03-01,Defective Component,2
+2024-03-01,Difficult or Delayed Activation,2
 2024-03-01,Premature Activation,2
+2024-03-01,Deflation Problem,2
+2024-03-01,Wrong Label,2
 2024-03-01,Detachment of Device or Device Component,2
+2024-03-01,Deformation Due to Compressive Stress,2
 2024-03-01,Material Integrity Problem,2
 2024-03-01,Leak/Splash,2
-2024-03-01,Deformation Due to Compressive Stress,2
 2024-03-01,Product Quality Problem,1
-2024-03-01,Inadequacy of Device Shape and/or Size,1
-2024-03-01,Burst Container or Vessel,1
+2024-03-01,Failure to Unfold or Unwrap,1
+2024-03-01,Device Markings/Labelling Problem,1
+2024-03-01,Failure to Deflate,1
 2024-03-01,Patient-Device Incompatibility,1
 2024-03-01,Use of Device Problem,1
-2024-03-01,Device Markings/Labelling Problem,1
-2024-03-01,Failure to Unfold or Unwrap,1
-2024-03-01,Failure to Deflate,1
+2024-03-01,Burst Container or Vessel,1
+2024-03-01,Inadequacy of Device Shape and/or Size,1
 2024-03-01,Positioning Failure,1
-2024-03-01,Difficult or Delayed Positioning,1
-2024-03-01,Malposition of Device,1
-2024-03-01,Component Misassembled,1
-2024-03-01,Off-Label Use,1
 2024-03-01,Material Puncture/Hole,1
+2024-03-01,Malposition of Device,1
+2024-03-01,Off-Label Use,1
+2024-03-01,Component Misassembled,1
+2024-03-01,Difficult or Delayed Positioning,1
 2024-04-01,Adverse Event Without Identified Device or Use Problem,89
 2024-04-01,Material Deformation,60
 2024-04-01,Device Dislodged or Dislocated,48
@@ -1980,25 +1980,25 @@ month,problem,reports
 2024-04-01,Leak/Splash,4
 2024-04-01,"Activation, Positioning or Separation Problem",4
 2024-04-01,Burst Container or Vessel,4
-2024-04-01,Stretched,2
 2024-04-01,Device-Device Incompatibility,2
-2024-04-01,"Material Split, Cut or Torn",2
+2024-04-01,Stretched,2
 2024-04-01,Difficult or Delayed Activation,2
-2024-04-01,Contamination,2
+2024-04-01,"Material Split, Cut or Torn",2
 2024-04-01,Material Twisted/Bent,2
+2024-04-01,Contamination,2
 2024-04-01,Material Integrity Problem,1
-2024-04-01,Migration or Expulsion of Device,1
-2024-04-01,Fluid/Blood Leak,1
 2024-04-01,Migration,1
 2024-04-01,Defective Device,1
+2024-04-01,Fluid/Blood Leak,1
+2024-04-01,Migration or Expulsion of Device,1
 2024-04-01,Difficult to Open or Remove Packaging Material,1
+2024-04-01,Product Quality Problem,1
 2024-04-01,Failure to Deflate,1
+2024-04-01,Use of Device Problem,1
+2024-04-01,Deflation Problem,1
 2024-04-01,Material Rupture,1
 2024-04-01,Patient-Device Incompatibility,1
 2024-04-01,Mechanical Problem,1
-2024-04-01,Deflation Problem,1
-2024-04-01,Use of Device Problem,1
-2024-04-01,Product Quality Problem,1
 2024-05-01,Adverse Event Without Identified Device or Use Problem,121
 2024-05-01,Material Deformation,61
 2024-05-01,Device Dislodged or Dislocated,51
@@ -2018,28 +2018,28 @@ month,problem,reports
 2024-05-01,Improper or Incorrect Procedure or Method,5
 2024-05-01,Inflation Problem,4
 2024-05-01,Leak/Splash,4
-2024-05-01,Device-Device Incompatibility,3
 2024-05-01,Difficult to Insert,3
+2024-05-01,Device-Device Incompatibility,3
 2024-05-01,Failure to Deflate,2
-2024-05-01,Difficult or Delayed Activation,2
-2024-05-01,Deflation Problem,2
 2024-05-01,Use of Device Problem,2
+2024-05-01,Deflation Problem,2
 2024-05-01,Material Separation,2
+2024-05-01,Difficult or Delayed Activation,2
 2024-05-01,Detachment of Device or Device Component,2
 2024-05-01,Positioning Failure,2
 2024-05-01,Migration,2
-2024-05-01,"Material Split, Cut or Torn",1
-2024-05-01,Wrong Label,1
 2024-05-01,Insufficient Device Problem Information,1
 2024-05-01,Burst Container or Vessel,1
+2024-05-01,Wrong Label,1
 2024-05-01,Patient Device Interaction Problem,1
+2024-05-01,"Material Split, Cut or Torn",1
 2024-05-01,Obstruction of Flow,1
 2024-05-01,Migration or Expulsion of Device,1
+2024-05-01,Nonstandard Device,1
 2024-05-01,"Tear, Rip or Hole in Device Packaging",1
 2024-05-01,Material Integrity Problem,1
-2024-05-01,Defective Device,1
 2024-05-01,Stretched,1
-2024-05-01,Nonstandard Device,1
+2024-05-01,Defective Device,1
 2024-06-01,Adverse Event Without Identified Device or Use Problem,77
 2024-06-01,Material Deformation,42
 2024-06-01,Device Dislodged or Dislocated,35
@@ -2052,32 +2052,32 @@ month,problem,reports
 2024-06-01,Material Separation,9
 2024-06-01,Material Rupture,8
 2024-06-01,Activation Failure,8
-2024-06-01,Fracture,6
 2024-06-01,Deformation Due to Compressive Stress,6
-2024-06-01,Leak/Splash,5
+2024-06-01,Fracture,6
 2024-06-01,"Activation, Positioning or Separation Problem",5
-2024-06-01,Defective Device,4
-2024-06-01,Device-Device Incompatibility,4
-2024-06-01,Detachment of Device or Device Component,4
+2024-06-01,Leak/Splash,5
 2024-06-01,Inflation Problem,4
-2024-06-01,Use of Device Problem,3
+2024-06-01,Device-Device Incompatibility,4
+2024-06-01,Defective Device,4
+2024-06-01,Detachment of Device or Device Component,4
 2024-06-01,Burst Container or Vessel,3
+2024-06-01,Use of Device Problem,3
 2024-06-01,"Material Split, Cut or Torn",3
 2024-06-01,Device Damaged by Another Device,3
 2024-06-01,Material Integrity Problem,2
-2024-06-01,Deflation Problem,1
 2024-06-01,Patient-Device Incompatibility,1
 2024-06-01,Contamination,1
-2024-06-01,Component Missing,1
-2024-06-01,Difficult or Delayed Activation,1
+2024-06-01,Deflation Problem,1
 2024-06-01,Defective Component,1
+2024-06-01,Difficult or Delayed Activation,1
+2024-06-01,Component Missing,1
 2024-06-01,Failure to Fold,1
+2024-06-01,Obstruction of Flow,1
+2024-06-01,Off-Label Use,1
 2024-06-01,Stretched,1
 2024-06-01,Migration,1
 2024-06-01,Entrapment of Device,1
 2024-06-01,"Tear, Rip or Hole in Device Packaging",1
-2024-06-01,Obstruction of Flow,1
-2024-06-01,Off-Label Use,1
 2024-07-01,Adverse Event Without Identified Device or Use Problem,57
 2024-07-01,Material Deformation,48
 2024-07-01,Device Dislodged or Dislocated,36
@@ -2095,28 +2095,28 @@ month,problem,reports
 2024-07-01,Material Separation,4
 2024-07-01,Contamination,4
 2024-07-01,Inflation Problem,4
-2024-07-01,Fluid/Blood Leak,3
 2024-07-01,Detachment of Device or Device Component,3
+2024-07-01,Fluid/Blood Leak,3
 2024-07-01,Packaging Problem,2
 2024-07-01,Difficult to Insert,2
-2024-07-01,"Activation, Positioning or Separation Problem",2
 2024-07-01,Leak/Splash,2
+2024-07-01,"Activation, Positioning or Separation Problem",2
 2024-07-01,Component Missing,1
-2024-07-01,Deflation Problem,1
-2024-07-01,Use of Device Problem,1
-2024-07-01,Mechanical Problem,1
-2024-07-01,Insufficient Device Problem Information,1
-2024-07-01,Patient-Device Incompatibility,1
 2024-07-01,Difficult to Open or Remove Packaging Material,1
 2024-07-01,Defective Component,1
 2024-07-01,Failure to Deflate,1
+2024-07-01,Mechanical Problem,1
+2024-07-01,Deflation Problem,1
+2024-07-01,Use of Device Problem,1
+2024-07-01,Patient-Device Incompatibility,1
+2024-07-01,Insufficient Device Problem Information,1
 2024-07-01,Device-Device Incompatibility,1
 2024-07-01,Stretched,1
-2024-07-01,Material Puncture/Hole,1
+2024-07-01,Entrapment of Device,1
 2024-07-01,Unsealed Device Packaging,1
+2024-07-01,Material Puncture/Hole,1
 2024-07-01,Malposition of Device,1
 2024-07-01,Difficult or Delayed Positioning,1
-2024-07-01,Entrapment of Device,1
 2024-08-01,Adverse Event Without Identified Device or Use Problem,89
 2024-08-01,Device Dislodged or Dislocated,48
 2024-08-01,Material Deformation,36
@@ -2128,29 +2128,29 @@ month,problem,reports
 2024-08-01,Material Rupture,10
 2024-08-01,Improper or Incorrect Procedure or Method,9
 2024-08-01,Insufficient Device Problem Information,8
-2024-08-01,Obstruction of Flow,7
-2024-08-01,Device Damaged by Another Device,7
 2024-08-01,Fracture,7
 2024-08-01,Entrapment of Device,7
+2024-08-01,Device Damaged by Another Device,7
+2024-08-01,Obstruction of Flow,7
 2024-08-01,Inflation Problem,6
 2024-08-01,Activation Failure,5
 2024-08-01,Material Separation,4
 2024-08-01,Failure to Deflate,4
-2024-08-01,"Activation, Positioning or Separation Problem",4
 2024-08-01,Deformation Due to Compressive Stress,4
+2024-08-01,"Activation, Positioning or Separation Problem",4
 2024-08-01,"Material Split, Cut or Torn",3
-2024-08-01,Detachment of Device or Device Component,3
 2024-08-01,Leak/Splash,3
-2024-08-01,Deflation Problem,2
+2024-08-01,Detachment of Device or Device Component,3
 2024-08-01,Burst Container or Vessel,2
+2024-08-01,Deflation Problem,2
 2024-08-01,Device-Device Incompatibility,2
-2024-08-01,Mechanical Problem,1
-2024-08-01,Use of Device Problem,1
-2024-08-01,Patient-Device Incompatibility,1
 2024-08-01,Difficult or Delayed Activation,1
 2024-08-01,Premature Activation,1
-2024-08-01,Stretched,1
+2024-08-01,Mechanical Problem,1
+2024-08-01,Patient-Device Incompatibility,1
+2024-08-01,Use of Device Problem,1
 2024-08-01,Contamination /Decontamination Problem,1
+2024-08-01,Stretched,1
 2024-08-01,Migration,1
 2024-08-01,Unsealed Device Packaging,1
 2024-09-01,Adverse Event Without Identified Device or Use Problem,95
@@ -2172,8 +2172,8 @@ month,problem,reports
 2024-09-01,Material Separation,4
 2024-09-01,Device Damaged by Another Device,4
 2024-09-01,Detachment of Device or Device Component,4
-2024-09-01,"Material Split, Cut or Torn",3
 2024-09-01,Burst Container or Vessel,3
+2024-09-01,"Material Split, Cut or Torn",3
 2024-09-01,Entrapment of Device,3
 2024-09-01,Device-Device Incompatibility,3
 2024-09-01,Use of Device Problem,2
@@ -2181,34 +2181,34 @@ month,problem,reports
 2024-09-01,Nonstandard Device,2
 2024-09-01,Failure to Deflate,1
 2024-09-01,Insufficient Device Problem Information,1
-2024-09-01,Patient-Device Incompatibility,1
-2024-09-01,Contamination,1
 2024-09-01,Deflation Problem,1
-2024-09-01,Product Quality Problem,1
+2024-09-01,Contamination,1
+2024-09-01,Patient-Device Incompatibility,1
 2024-09-01,Loose or Intermittent Connection,1
 2024-09-01,Material Twisted/Bent,1
+2024-09-01,Product Quality Problem,1
+2024-09-01,Off-Label Use,1
 2024-09-01,Difficult or Delayed Positioning,1
 2024-09-01,Obstruction of Flow,1
-2024-09-01,Off-Label Use,1
-2024-09-01,Contamination /Decontamination Problem,1
-2024-09-01,Difficult to Insert,1
-2024-09-01,Defective Device,1
-2024-09-01,Positioning Failure,1
 2024-09-01,Failure to Fold,1
 2024-09-01,Human-Device Interface Problem,1
+2024-09-01,Defective Device,1
+2024-09-01,Contamination /Decontamination Problem,1
+2024-09-01,Positioning Failure,1
+2024-09-01,Difficult to Insert,1
 2024-10-01,Adverse Event Without Identified Device or Use Problem,109
 2024-10-01,Material Deformation,57
 2024-10-01,Device Dislodged or Dislocated,39
 2024-10-01,Failure to Advance,22
 2024-10-01,Positioning Problem,17
 2024-10-01,Break,14
-2024-10-01,Activation Failure,9
 2024-10-01,Difficult to Advance,9
+2024-10-01,Activation Failure,9
 2024-10-01,Difficult to Remove,9
 2024-10-01,Material Rupture,7
 2024-10-01,Fracture,6
-2024-10-01,Inflation Problem,5
 2024-10-01,Improper or Incorrect Procedure or Method,5
+2024-10-01,Inflation Problem,5
 2024-10-01,"Material Split, Cut or Torn",4
 2024-10-01,Deformation Due to Compressive Stress,4
 2024-10-01,Leak/Splash,4
@@ -2216,26 +2216,26 @@ month,problem,reports
 2024-10-01,Deflation Problem,3
 2024-10-01,Entrapment of Device,3
 2024-10-01,Stretched,3
+2024-10-01,Patient Device Interaction Problem,2
 2024-10-01,Failure to Deflate,2
 2024-10-01,Premature Activation,2
-2024-10-01,Patient Device Interaction Problem,2
 2024-10-01,Detachment of Device or Device Component,2
-2024-10-01,Migration,2
 2024-10-01,Defective Device,2
+2024-10-01,Migration,2
 2024-10-01,Device Contamination with Chemical or Other Material,1
 2024-10-01,Product Quality Problem,1
-2024-10-01,Contamination,1
 2024-10-01,Use of Device Problem,1
 2024-10-01,Mechanical Problem,1
 2024-10-01,Burst Container or Vessel,1
+2024-10-01,Contamination,1
 2024-10-01,Material Integrity Problem,1
 2024-10-01,"Tear, Rip or Hole in Device Packaging",1
-2024-10-01,Difficult or Delayed Positioning,1
-2024-10-01,Migration or Expulsion of Device,1
-2024-10-01,Device Damaged by Another Device,1
 2024-10-01,Difficult to Insert,1
-2024-10-01,Positioning Failure,1
 2024-10-01,Contamination /Decontamination Problem,1
+2024-10-01,Positioning Failure,1
+2024-10-01,Migration or Expulsion of Device,1
+2024-10-01,Difficult or Delayed Positioning,1
+2024-10-01,Device Damaged by Another Device,1
 2024-11-01,Adverse Event Without Identified Device or Use Problem,100
 2024-11-01,Material Deformation,53
 2024-11-01,Device Dislodged or Dislocated,39
@@ -2251,32 +2251,32 @@ month,problem,reports
 2024-11-01,Activation Failure,7
 2024-11-01,Material Rupture,6
 2024-11-01,Entrapment of Device,5
-2024-11-01,"Activation, Positioning or Separation Problem",5
 2024-11-01,Improper or Incorrect Procedure or Method,5
+2024-11-01,"Activation, Positioning or Separation Problem",5
 2024-11-01,Fracture,4
-2024-11-01,Device-Device Incompatibility,3
 2024-11-01,Migration,3
+2024-11-01,Device-Device Incompatibility,3
+2024-11-01,Material Separation,3
 2024-11-01,Failure to Deflate,3
 2024-11-01,Burst Container or Vessel,3
-2024-11-01,Material Separation,3
-2024-11-01,Difficult or Delayed Positioning,2
-2024-11-01,Device Damaged by Another Device,2
 2024-11-01,Defective Device,2
 2024-11-01,No Apparent Adverse Event,2
+2024-11-01,Difficult or Delayed Positioning,2
+2024-11-01,Device Damaged by Another Device,2
 2024-11-01,"Material Split, Cut or Torn",2
-2024-11-01,Illegible Information,2
 2024-11-01,Patient Device Interaction Problem,2
+2024-11-01,Illegible Information,2
 2024-11-01,Material Integrity Problem,1
-2024-11-01,Malposition of Device,1
-2024-11-01,Migration or Expulsion of Device,1
 2024-11-01,Stretched,1
 2024-11-01,Human-Device Interface Problem,1
-2024-11-01,Difficult or Delayed Activation,1
+2024-11-01,Malposition of Device,1
+2024-11-01,Migration or Expulsion of Device,1
 2024-11-01,Material Too Soft/Flexible,1
+2024-11-01,Difficult or Delayed Activation,1
+2024-11-01,Material Twisted/Bent,1
 2024-11-01,Device Markings/Labelling Problem,1
 2024-11-01,Use of Device Problem,1
 2024-11-01,Inadequacy of Device Shape and/or Size,1
-2024-11-01,Material Twisted/Bent,1
 2024-12-01,Adverse Event Without Identified Device or Use Problem,107
 2024-12-01,Device Dislodged or Dislocated,46
 2024-12-01,Material Deformation,41
@@ -2287,22 +2287,22 @@ month,problem,reports
 2024-12-01,Positioning Problem,10
 2024-12-01,Material Rupture,9
 2024-12-01,Improper or Incorrect Procedure or Method,9
-2024-12-01,Inflation Problem,7
 2024-12-01,Deformation Due to Compressive Stress,7
+2024-12-01,Inflation Problem,7
 2024-12-01,"Activation, Positioning or Separation Problem",6
 2024-12-01,Material Separation,5
 2024-12-01,Activation Failure,4
-2024-12-01,Detachment of Device or Device Component,4
 2024-12-01,Entrapment of Device,4
+2024-12-01,Detachment of Device or Device Component,4
 2024-12-01,Component Missing,3
 2024-12-01,Positioning Failure,3
 2024-12-01,Fracture,3
-2024-12-01,Deflation Problem,2
-2024-12-01,Patient-Device Incompatibility,2
 2024-12-01,Failure to Deflate,2
+2024-12-01,Patient-Device Incompatibility,2
+2024-12-01,Deflation Problem,2
 2024-12-01,Migration,2
-2024-12-01,Device Damaged by Another Device,2
 2024-12-01,Leak/Splash,2
+2024-12-01,Device Damaged by Another Device,2
 2024-12-01,Peeled/Delaminated,1
 2024-12-01,Mechanical Problem,1
 2024-12-01,Contamination /Decontamination Problem,1
@@ -2329,17 +2329,17 @@ month,problem,reports
 2025-01-01,Burst Container or Vessel,4
 2025-01-01,Device Damaged by Another Device,3
 2025-01-01,"Material Split, Cut or Torn",3
-2025-01-01,Nonstandard Device,2
 2025-01-01,Material Integrity Problem,2
 2025-01-01,Migration or Expulsion of Device,2
-2025-01-01,Difficult to Insert,1
+2025-01-01,Nonstandard Device,2
 2025-01-01,Defective Device,1
+2025-01-01,Difficult to Insert,1
 2025-01-01,Material Puncture/Hole,1
 2025-01-01,Fluid/Blood Leak,1
-2025-01-01,Deflation Problem,1
-2025-01-01,Wrong Label,1
-2025-01-01,Failure to Deflate,1
 2025-01-01,Defective Component,1
+2025-01-01,Wrong Label,1
+2025-01-01,Deflation Problem,1
+2025-01-01,Failure to Deflate,1
 2025-02-01,Adverse Event Without Identified Device or Use Problem,98
 2025-02-01,Material Deformation,48
 2025-02-01,Device Dislodged or Dislocated,35
@@ -2352,11 +2352,11 @@ month,problem,reports
 2025-02-01,Material Rupture,8
 2025-02-01,Fracture,7
 2025-02-01,Deformation Due to Compressive Stress,6
-2025-02-01,"Activation, Positioning or Separation Problem",6
 2025-02-01,Inflation Problem,6
-2025-02-01,Activation Failure,5
+2025-02-01,"Activation, Positioning or Separation Problem",6
 2025-02-01,Deflation Problem,5
 2025-02-01,Patient-Device Incompatibility,5
+2025-02-01,Activation Failure,5
 2025-02-01,Device Damaged by Another Device,4
 2025-02-01,Material Separation,3
 2025-02-01,Leak/Splash,3
@@ -2364,128 +2364,128 @@ month,problem,reports
 2025-02-01,Use of Device Problem,2
 2025-02-01,Detachment of Device or Device Component,2
 2025-02-01,Entrapment of Device,2
-2025-02-01,Obstruction of Flow,2
-2025-02-01,Migration or Expulsion of Device,2
-2025-02-01,Nonstandard Device,2
 2025-02-01,Difficult to Insert,2
 2025-02-01,Stretched,2
+2025-02-01,Migration or Expulsion of Device,2
+2025-02-01,Obstruction of Flow,2
+2025-02-01,Nonstandard Device,2
 2025-02-01,Unintended Movement,1
 2025-02-01,Device Contamination with Chemical or Other Material,1
 2025-02-01,Failure to Deflate,1
 2025-02-01,Material Integrity Problem,1
-2025-02-01,Fluid/Blood Leak,1
-2025-02-01,Device-Device Incompatibility,1
 2025-02-01,Device Contaminated During Manufacture or Shipping,1
+2025-02-01,Device-Device Incompatibility,1
+2025-02-01,Fluid/Blood Leak,1
 2025-03-01,Adverse Event Without Identified Device or Use Problem,81
 2025-03-01,Material Deformation,46
 2025-03-01,Device Dislodged or Dislocated,30
 2025-03-01,Failure to Advance,25
 2025-03-01,Break,20
+2025-03-01,Difficult to Remove,12
 2025-03-01,Positioning Problem,12
 2025-03-01,Device Damaged by Another Device,12
-2025-03-01,Difficult to Remove,12
 2025-03-01,Fracture,10
 2025-03-01,Detachment of Device or Device Component,7
-2025-03-01,Difficult to Advance,6
 2025-03-01,Material Rupture,6
+2025-03-01,Difficult to Advance,6
 2025-03-01,Material Separation,4
+2025-03-01,Deformation Due to Compressive Stress,4
+2025-03-01,Leak/Splash,4
 2025-03-01,Off-Label Use,4
 2025-03-01,Inflation Problem,4
-2025-03-01,Leak/Splash,4
-2025-03-01,Deformation Due to Compressive Stress,4
-2025-03-01,Burst Container or Vessel,3
 2025-03-01,Activation Failure,3
+2025-03-01,Burst Container or Vessel,3
 2025-03-01,Improper or Incorrect Procedure or Method,3
 2025-03-01,"Activation, Positioning or Separation Problem",3
 2025-03-01,"Material Split, Cut or Torn",2
-2025-03-01,Difficult to Insert,2
 2025-03-01,Device-Device Incompatibility,2
+2025-03-01,Difficult to Insert,2
 2025-03-01,Nonstandard Device,2
 2025-03-01,Component Missing,1
 2025-03-01,Device Contamination with Chemical or Other Material,1
 2025-03-01,Failure to Deflate,1
 2025-03-01,Defective Device,1
 2025-03-01,Positioning Failure,1
+2025-03-01,Material Integrity Problem,1
 2025-03-01,Failure to Fold,1
 2025-03-01,Fluid/Blood Leak,1
-2025-03-01,Material Integrity Problem,1
 2025-04-01,Adverse Event Without Identified Device or Use Problem,88
 2025-04-01,Device Dislodged or Dislocated,30
 2025-04-01,Material Deformation,29
 2025-04-01,Break,18
 2025-04-01,Positioning Problem,16
-2025-04-01,Difficult to Remove,14
 2025-04-01,Failure to Advance,14
+2025-04-01,Difficult to Remove,14
 2025-04-01,Difficult to Advance,8
 2025-04-01,Activation Failure,8
 2025-04-01,Leak/Splash,7
 2025-04-01,Material Rupture,6
 2025-04-01,Device Damaged by Another Device,6
 2025-04-01,Detachment of Device or Device Component,5
-2025-04-01,Fracture,4
 2025-04-01,Inflation Problem,4
+2025-04-01,Fracture,4
 2025-04-01,Material Separation,3
 2025-04-01,Defective Device,3
 2025-04-01,Deformation Due to Compressive Stress,3
 2025-04-01,Use of Device Problem,2
 2025-04-01,Nonstandard Device,2
-2025-04-01,Improper or Incorrect Procedure or Method,2
+2025-04-01,"Activation, Positioning or Separation Problem",2
+2025-04-01,Difficult or Delayed Positioning,2
 2025-04-01,Positioning Failure,2
 2025-04-01,Difficult to Insert,2
-2025-04-01,Difficult or Delayed Positioning,2
-2025-04-01,"Activation, Positioning or Separation Problem",2
+2025-04-01,Improper or Incorrect Procedure or Method,2
 2025-04-01,Deflation Problem,1
-2025-04-01,Insufficient Device Problem Information,1
 2025-04-01,Patient-Device Incompatibility,1
 2025-04-01,Burst Container or Vessel,1
-2025-04-01,Patient Device Interaction Problem,1
+2025-04-01,Insufficient Device Problem Information,1
 2025-04-01,Device Markings/Labelling Problem,1
 2025-04-01,Failure to Deflate,1
-2025-04-01,"Material Split, Cut or Torn",1
 2025-04-01,Defective Component,1
+2025-04-01,"Material Split, Cut or Torn",1
+2025-04-01,Patient Device Interaction Problem,1
 2025-04-01,Material Frayed,1
+2025-04-01,Material Puncture/Hole,1
+2025-04-01,Off-Label Use,1
 2025-04-01,Physical Resistance/Sticking,1
 2025-04-01,Migration,1
 2025-04-01,Stretched,1
 2025-04-01,Entrapment of Device,1
-2025-04-01,Off-Label Use,1
-2025-04-01,Material Puncture/Hole,1
 2025-05-01,Adverse Event Without Identified Device or Use Problem,115
 2025-05-01,Device Dislodged or Dislocated,39
 2025-05-01,Material Deformation,37
-2025-05-01,Difficult to Remove,18
 2025-05-01,Positioning Problem,18
+2025-05-01,Difficult to Remove,18
 2025-05-01,Failure to Advance,15
 2025-05-01,Difficult to Advance,9
 2025-05-01,Inflation Problem,8
 2025-05-01,Material Rupture,7
 2025-05-01,Device Damaged by Another Device,6
-2025-05-01,Fracture,6
 2025-05-01,Detachment of Device or Device Component,6
-2025-05-01,Break,6
+2025-05-01,Fracture,6
 2025-05-01,Burst Container or Vessel,6
-2025-05-01,Failure to Deflate,4
+2025-05-01,Break,6
 2025-05-01,Activation Failure,4
+2025-05-01,Failure to Deflate,4
 2025-05-01,Leak/Splash,3
 2025-05-01,Entrapment of Device,3
-2025-05-01,Deformation Due to Compressive Stress,2
 2025-05-01,Improper or Incorrect Procedure or Method,2
-2025-05-01,"Material Split, Cut or Torn",2
+2025-05-01,Deformation Due to Compressive Stress,2
 2025-05-01,Deflation Problem,2
+2025-05-01,"Material Split, Cut or Torn",2
+2025-05-01,Fluid/Blood Leak,1
 2025-05-01,"Activation, Positioning or Separation Problem",1
 2025-05-01,Malposition of Device,1
 2025-05-01,Migration or Expulsion of Device,1
-2025-05-01,Fluid/Blood Leak,1
 2025-05-01,Migration,1
 2025-05-01,Defective Device,1
 2025-05-01,Device-Device Incompatibility,1
 2025-05-01,Stretched,1
-2025-05-01,Defective Component,1
+2025-05-01,Use of Device Problem,1
 2025-05-01,Difficult or Delayed Activation,1
+2025-05-01,Defective Component,1
+2025-05-01,Poor Visibility,1
 2025-05-01,Material Separation,1
 2025-05-01,Component Missing,1
-2025-05-01,Poor Visibility,1
-2025-05-01,Use of Device Problem,1
 2025-06-01,Adverse Event Without Identified Device or Use Problem,61
 2025-06-01,Material Deformation,35
 2025-06-01,Device Dislodged or Dislocated,34
@@ -2493,32 +2493,32 @@ month,problem,reports
 2025-06-01,Break,16
 2025-06-01,Positioning Problem,12
 2025-06-01,Failure to Advance,10
-2025-06-01,Difficult to Advance,9
 2025-06-01,Material Rupture,9
+2025-06-01,Difficult to Advance,9
 2025-06-01,Device Damaged by Another Device,6
 2025-06-01,Improper or Incorrect Procedure or Method,5
 2025-06-01,Detachment of Device or Device Component,5
 2025-06-01,Activation Failure,4
-2025-06-01,Inflation Problem,4
 2025-06-01,Leak/Splash,4
-2025-06-01,Deflation Problem,3
-2025-06-01,Burst Container or Vessel,3
+2025-06-01,Inflation Problem,4
 2025-06-01,Failure to Deflate,3
-2025-06-01,"Activation, Positioning or Separation Problem",3
-2025-06-01,Migration or Expulsion of Device,3
+2025-06-01,Burst Container or Vessel,3
+2025-06-01,Deflation Problem,3
 2025-06-01,Deformation Due to Compressive Stress,3
+2025-06-01,Migration or Expulsion of Device,3
+2025-06-01,"Activation, Positioning or Separation Problem",3
 2025-06-01,Material Separation,2
-2025-06-01,Nonstandard Device,2
 2025-06-01,Fracture,2
-2025-06-01,Material Twisted/Bent,1
+2025-06-01,Nonstandard Device,2
 2025-06-01,Component Missing,1
+2025-06-01,Material Twisted/Bent,1
 2025-06-01,Poor Visibility,1
+2025-06-01,"Material Split, Cut or Torn",1
 2025-06-01,Patient-Device Incompatibility,1
 2025-06-01,Use of Device Problem,1
-2025-06-01,"Material Split, Cut or Torn",1
-2025-06-01,Defective Device,1
 2025-06-01,Difficult to Insert,1
 2025-06-01,Retraction Problem,1
+2025-06-01,Defective Device,1
 2025-06-01,Material Integrity Problem,1
 2025-06-01,Entrapment of Device,1
 2025-07-01,Adverse Event Without Identified Device or Use Problem,61
@@ -2534,25 +2534,25 @@ month,problem,reports
 2025-07-01,Material Rupture,7
 2025-07-01,Improper or Incorrect Procedure or Method,7
 2025-07-01,Burst Container or Vessel,6
-2025-07-01,Inflation Problem,6
 2025-07-01,Device Damaged by Another Device,6
+2025-07-01,Inflation Problem,6
 2025-07-01,Defective Device,6
 2025-07-01,Activation Failure,4
 2025-07-01,Use of Device Problem,3
 2025-07-01,Deformation Due to Compressive Stress,3
-2025-07-01,Material Integrity Problem,3
 2025-07-01,Leak/Splash,3
+2025-07-01,Material Integrity Problem,3
 2025-07-01,Failure to Deflate,2
 2025-07-01,Premature Activation,2
 2025-07-01,Patient Device Interaction Problem,2
-2025-07-01,Off-Label Use,2
 2025-07-01,"Activation, Positioning or Separation Problem",2
+2025-07-01,Off-Label Use,2
 2025-07-01,Nonstandard Device,2
-2025-07-01,Difficult to Open or Remove Packaging Material,1
-2025-07-01,Contamination,1
 2025-07-01,Patient-Device Incompatibility,1
+2025-07-01,Contamination,1
 2025-07-01,Material Separation,1
 2025-07-01,Material Twisted/Bent,1
+2025-07-01,Difficult to Open or Remove Packaging Material,1
 2025-07-01,Entrapment of Device,1
 2025-07-01,Positioning Failure,1
 2025-07-01,Stretched,1
@@ -2560,8 +2560,8 @@ month,problem,reports
 2025-08-01,Material Deformation,57
 2025-08-01,Device Dislodged or Dislocated,37
 2025-08-01,Difficult to Remove,23
-2025-08-01,Positioning Problem,22
 2025-08-01,Failure to Advance,22
+2025-08-01,Positioning Problem,22
 2025-08-01,Difficult to Advance,18
 2025-08-01,Deformation Due to Compressive Stress,12
 2025-08-01,Fracture,11
@@ -2570,29 +2570,29 @@ month,problem,reports
 2025-08-01,Improper or Incorrect Procedure or Method,6
 2025-08-01,Failure to Deflate,6
 2025-08-01,Leak/Splash,5
-2025-08-01,Inflation Problem,5
 2025-08-01,"Activation, Positioning or Separation Problem",5
-2025-08-01,Material Rupture,5
+2025-08-01,Inflation Problem,5
 2025-08-01,Patient-Device Incompatibility,5
+2025-08-01,Material Rupture,5
 2025-08-01,Positioning Failure,3
 2025-08-01,Material Separation,3
 2025-08-01,Burst Container or Vessel,3
 2025-08-01,Difficult to Insert,2
-2025-08-01,Nonstandard Device,2
 2025-08-01,Material Integrity Problem,2
 2025-08-01,Detachment of Device or Device Component,2
 2025-08-01,Obstruction of Flow,2
-2025-08-01,"Material Split, Cut or Torn",2
+2025-08-01,Nonstandard Device,2
 2025-08-01,Material Too Soft/Flexible,2
-2025-08-01,Defective Device,1
+2025-08-01,"Material Split, Cut or Torn",2
 2025-08-01,Device-Device Incompatibility,1
+2025-08-01,Defective Device,1
 2025-08-01,Contamination /Decontamination Problem,1
 2025-08-01,Entrapment of Device,1
-2025-08-01,Migration or Expulsion of Device,1
 2025-08-01,Unsealed Device Packaging,1
-2025-08-01,Fluid/Blood Leak,1
-2025-08-01,Off-Label Use,1
 2025-08-01,Failure to Fire,1
+2025-08-01,Migration or Expulsion of Device,1
+2025-08-01,Off-Label Use,1
+2025-08-01,Fluid/Blood Leak,1
 2025-08-01,Material Twisted/Bent,1
 2025-08-01,Packaging Problem,1
 2025-08-01,Deflation Problem,1
@@ -2608,37 +2608,37 @@ month,problem,reports
 2025-09-01,Leak/Splash,9
 2025-09-01,Inflation Problem,8
 2025-09-01,Material Separation,7
-2025-09-01,Difficult to Advance,7
 2025-09-01,Activation Failure,7
+2025-09-01,Difficult to Advance,7
 2025-09-01,Nonstandard Device,7
 2025-09-01,Device Damaged by Another Device,7
 2025-09-01,Burst Container or Vessel,6
 2025-09-01,Material Rupture,4
-2025-09-01,Fracture,4
 2025-09-01,Deformation Due to Compressive Stress,4
-2025-09-01,"Activation, Positioning or Separation Problem",3
+2025-09-01,Fracture,4
 2025-09-01,Detachment of Device or Device Component,3
 2025-09-01,Entrapment of Device,3
-2025-09-01,Deflation Problem,2
-2025-09-01,Contamination,2
+2025-09-01,"Activation, Positioning or Separation Problem",3
 2025-09-01,Failure to Deflate,2
+2025-09-01,Contamination,2
+2025-09-01,Deflation Problem,2
 2025-09-01,Material Integrity Problem,2
-2025-09-01,Patient Device Interaction Problem,1
 2025-09-01,Component Missing,1
-2025-09-01,Patient-Device Incompatibility,1
-2025-09-01,Packaging Problem,1
-2025-09-01,Use of Device Problem,1
+2025-09-01,Patient Device Interaction Problem,1
 2025-09-01,"Material Split, Cut or Torn",1
+2025-09-01,Packaging Problem,1
+2025-09-01,Patient-Device Incompatibility,1
+2025-09-01,Use of Device Problem,1
+2025-09-01,Physical Resistance/Sticking,1
+2025-09-01,Migration,1
+2025-09-01,Defective Device,1
 2025-09-01,Contamination /Decontamination Problem,1
 2025-09-01,Positioning Failure,1
 2025-09-01,Difficult to Insert,1
-2025-09-01,Migration,1
-2025-09-01,Defective Device,1
-2025-09-01,Physical Resistance/Sticking,1
+2025-09-01,"Tear, Rip or Hole in Device Packaging",1
 2025-09-01,Unintended System Motion,1
 2025-09-01,Migration or Expulsion of Device,1
 2025-09-01,Difficult or Delayed Positioning,1
-2025-09-01,"Tear, Rip or Hole in Device Packaging",1
 2025-10-01,Adverse Event Without Identified Device or Use Problem,90
 2025-10-01,Material Deformation,43
 2025-10-01,Device Dislodged or Dislocated,29
@@ -2652,24 +2652,24 @@ month,problem,reports
 2025-10-01,Material Rupture,7
 2025-10-01,Activation Failure,7
 2025-10-01,Device Damaged by Another Device,6
-2025-10-01,Fracture,6
 2025-10-01,Detachment of Device or Device Component,6
+2025-10-01,Fracture,6
 2025-10-01,Material Separation,6
 2025-10-01,Leak/Splash,5
 2025-10-01,Difficult to Advance,5
 2025-10-01,Deformation Due to Compressive Stress,4
 2025-10-01,Patient-Device Incompatibility,3
 2025-10-01,Failure to Deflate,3
-2025-10-01,Migration,2
-2025-10-01,Device-Device Incompatibility,2
 2025-10-01,Material Integrity Problem,2
+2025-10-01,Device-Device Incompatibility,2
+2025-10-01,Migration,2
 2025-10-01,Difficult or Delayed Activation,2
-2025-10-01,Stretched,1
-2025-10-01,Defective Device,1
 2025-10-01,"Activation, Positioning or Separation Problem",1
 2025-10-01,Malposition of Device,1
 2025-10-01,Entrapment of Device,1
 2025-10-01,Premature Separation,1
+2025-10-01,Stretched,1
+2025-10-01,Defective Device,1
 2025-10-01,Inadequacy of Device Shape and/or Size,1
 2025-10-01,Burst Container or Vessel,1
 2025-10-01,Component Missing,1
@@ -2682,37 +2682,37 @@ month,problem,reports
 2025-11-01,Break,18
 2025-11-01,Nonstandard Device,14
 2025-11-01,Difficult to Advance,13
-2025-11-01,Positioning Problem,13
 2025-11-01,Difficult to Remove,13
+2025-11-01,Positioning Problem,13
 2025-11-01,Device Damaged by Another Device,11
 2025-11-01,Material Rupture,9
 2025-11-01,Material Separation,8
 2025-11-01,Deformation Due to Compressive Stress,8
-2025-11-01,"Activation, Positioning or Separation Problem",5
 2025-11-01,Entrapment of Device,5
-2025-11-01,Inflation Problem,4
+2025-11-01,"Activation, Positioning or Separation Problem",5
 2025-11-01,Fracture,4
+2025-11-01,Inflation Problem,4
 2025-11-01,Activation Failure,3
 2025-11-01,Leak/Splash,3
-2025-11-01,Burst Container or Vessel,2
 2025-11-01,Failure to Deflate,2
+2025-11-01,Burst Container or Vessel,2
 2025-11-01,Defective Device,2
 2025-11-01,Obstruction of Flow,2
-2025-11-01,Patient Device Interaction Problem,1
-2025-11-01,Poor Visibility,1
 2025-11-01,Peeled/Delaminated,1
-2025-11-01,Use of Device Problem,1
-2025-11-01,Inadequacy of Device Shape and/or Size,1
-2025-11-01,Mechanical Jam,1
+2025-11-01,Poor Visibility,1
+2025-11-01,Patient Device Interaction Problem,1
 2025-11-01,"Material Split, Cut or Torn",1
+2025-11-01,Mechanical Jam,1
 2025-11-01,Failure to Unfold or Unwrap,1
 2025-11-01,Premature Activation,1
+2025-11-01,Use of Device Problem,1
+2025-11-01,Inadequacy of Device Shape and/or Size,1
+2025-11-01,Contamination of Device Ingredient or Reagent,1
 2025-11-01,Improper or Incorrect Procedure or Method,1
 2025-11-01,Stretched,1
 2025-11-01,Migration,1
-2025-11-01,Contamination of Device Ingredient or Reagent,1
-2025-11-01,Fluid/Blood Leak,1
 2025-11-01,Detachment of Device or Device Component,1
+2025-11-01,Fluid/Blood Leak,1
 2025-12-01,Adverse Event Without Identified Device or Use Problem,81
 2025-12-01,Failure to Advance,34
 2025-12-01,Device Dislodged or Dislocated,29
@@ -2724,30 +2724,30 @@ month,problem,reports
 2025-12-01,Deformation Due to Compressive Stress,9
 2025-12-01,Difficult to Remove,9
 2025-12-01,Fracture,6
-2025-12-01,Activation Failure,4
 2025-12-01,Material Separation,4
 2025-12-01,Material Rupture,4
+2025-12-01,Activation Failure,4
 2025-12-01,Detachment of Device or Device Component,4
 2025-12-01,Unsealed Device Packaging,3
 2025-12-01,"Material Split, Cut or Torn",2
-2025-12-01,Failure to Deflate,2
 2025-12-01,Patient-Device Incompatibility,2
+2025-12-01,Failure to Deflate,2
 2025-12-01,Leak/Splash,2
+2025-12-01,Difficult to Insert,2
+2025-12-01,Improper or Incorrect Procedure or Method,2
+2025-12-01,"Activation, Positioning or Separation Problem",2
 2025-12-01,Inflation Problem,2
 2025-12-01,Obstruction of Flow,2
-2025-12-01,"Activation, Positioning or Separation Problem",2
-2025-12-01,Improper or Incorrect Procedure or Method,2
-2025-12-01,Difficult to Insert,2
-2025-12-01,Premature Activation,1
-2025-12-01,Failure to Unfold or Unwrap,1
 2025-12-01,Component Missing,1
-2025-12-01,Deflation Problem,1
-2025-12-01,Inadequacy of Device Shape and/or Size,1
 2025-12-01,Burst Container or Vessel,1
+2025-12-01,Inadequacy of Device Shape and/or Size,1
+2025-12-01,Deflation Problem,1
+2025-12-01,Failure to Unfold or Unwrap,1
+2025-12-01,Premature Activation,1
 2025-12-01,Entrapment of Device,1
-2025-12-01,Difficult or Delayed Positioning,1
+2025-12-01,Physical Resistance/Sticking,1
+2025-12-01,Contamination /Decontamination Problem,1
 2025-12-01,Off-Label Use,1
+2025-12-01,Difficult or Delayed Positioning,1
 2025-12-01,Fluid/Blood Leak,1
 2025-12-01,No Apparent Adverse Event,1
-2025-12-01,Contamination /Decontamination Problem,1
-2025-12-01,Physical Resistance/Sticking,1
