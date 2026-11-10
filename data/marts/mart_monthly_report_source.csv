@@ -1,0 +1,289 @@
+month,report_source,reports
+2020-01-01,Distributor,0
+2020-01-01,Manufacturer,540
+2020-01-01,User facility,3
+2020-01-01,Voluntary,3
+2020-02-01,Distributor,0
+2020-02-01,Manufacturer,508
+2020-02-01,User facility,1
+2020-02-01,Voluntary,8
+2020-03-01,Distributor,0
+2020-03-01,Manufacturer,761
+2020-03-01,User facility,1
+2020-03-01,Voluntary,4
+2020-04-01,Distributor,0
+2020-04-01,Manufacturer,424
+2020-04-01,User facility,0
+2020-04-01,Voluntary,0
+2020-05-01,Distributor,0
+2020-05-01,Manufacturer,336
+2020-05-01,User facility,2
+2020-05-01,Voluntary,1
+2020-06-01,Distributor,0
+2020-06-01,Manufacturer,490
+2020-06-01,User facility,2
+2020-06-01,Voluntary,2
+2020-07-01,Distributor,0
+2020-07-01,Manufacturer,504
+2020-07-01,User facility,3
+2020-07-01,Voluntary,0
+2020-08-01,Distributor,0
+2020-08-01,Manufacturer,455
+2020-08-01,User facility,2
+2020-08-01,Voluntary,3
+2020-09-01,Distributor,0
+2020-09-01,Manufacturer,548
+2020-09-01,User facility,3
+2020-09-01,Voluntary,6
+2020-10-01,Distributor,0
+2020-10-01,Manufacturer,527
+2020-10-01,User facility,1
+2020-10-01,Voluntary,1
+2020-11-01,Distributor,0
+2020-11-01,Manufacturer,559
+2020-11-01,User facility,5
+2020-11-01,Voluntary,0
+2020-12-01,Distributor,0
+2020-12-01,Manufacturer,654
+2020-12-01,User facility,2
+2020-12-01,Voluntary,3
+2021-01-01,Distributor,0
+2021-01-01,Manufacturer,477
+2021-01-01,User facility,1
+2021-01-01,Voluntary,3
+2021-02-01,Distributor,0
+2021-02-01,Manufacturer,500
+2021-02-01,User facility,4
+2021-02-01,Voluntary,1
+2021-03-01,Distributor,0
+2021-03-01,Manufacturer,561
+2021-03-01,User facility,5
+2021-03-01,Voluntary,4
+2021-04-01,Distributor,0
+2021-04-01,Manufacturer,451
+2021-04-01,User facility,3
+2021-04-01,Voluntary,4
+2021-05-01,Distributor,0
+2021-05-01,Manufacturer,421
+2021-05-01,User facility,0
+2021-05-01,Voluntary,3
+2021-06-01,Distributor,1
+2021-06-01,Manufacturer,438
+2021-06-01,User facility,3
+2021-06-01,Voluntary,0
+2021-07-01,Distributor,0
+2021-07-01,Manufacturer,446
+2021-07-01,User facility,1
+2021-07-01,Voluntary,0
+2021-08-01,Distributor,0
+2021-08-01,Manufacturer,378
+2021-08-01,User facility,3
+2021-08-01,Voluntary,1
+2021-09-01,Distributor,0
+2021-09-01,Manufacturer,367
+2021-09-01,User facility,0
+2021-09-01,Voluntary,2
+2021-10-01,Distributor,0
+2021-10-01,Manufacturer,373
+2021-10-01,User facility,1
+2021-10-01,Voluntary,0
+2021-11-01,Distributor,0
+2021-11-01,Manufacturer,378
+2021-11-01,User facility,2
+2021-11-01,Voluntary,0
+2021-12-01,Distributor,0
+2021-12-01,Manufacturer,433
+2021-12-01,User facility,2
+2021-12-01,Voluntary,1
+2022-01-01,Distributor,0
+2022-01-01,Manufacturer,364
+2022-01-01,User facility,0
+2022-01-01,Voluntary,2
+2022-02-01,Distributor,0
+2022-02-01,Manufacturer,368
+2022-02-01,User facility,2
+2022-02-01,Voluntary,2
+2022-03-01,Distributor,0
+2022-03-01,Manufacturer,423
+2022-03-01,User facility,4
+2022-03-01,Voluntary,1
+2022-04-01,Distributor,0
+2022-04-01,Manufacturer,386
+2022-04-01,User facility,5
+2022-04-01,Voluntary,0
+2022-05-01,Distributor,0
+2022-05-01,Manufacturer,339
+2022-05-01,User facility,3
+2022-05-01,Voluntary,1
+2022-06-01,Distributor,0
+2022-06-01,Manufacturer,448
+2022-06-01,User facility,1
+2022-06-01,Voluntary,1
+2022-07-01,Distributor,0
+2022-07-01,Manufacturer,361
+2022-07-01,User facility,3
+2022-07-01,Voluntary,2
+2022-08-01,Distributor,0
+2022-08-01,Manufacturer,267
+2022-08-01,User facility,0
+2022-08-01,Voluntary,2
+2022-09-01,Distributor,0
+2022-09-01,Manufacturer,243
+2022-09-01,User facility,3
+2022-09-01,Voluntary,2
+2022-10-01,Distributor,0
+2022-10-01,Manufacturer,281
+2022-10-01,User facility,0
+2022-10-01,Voluntary,0
+2022-11-01,Distributor,0
+2022-11-01,Manufacturer,279
+2022-11-01,User facility,2
+2022-11-01,Voluntary,2
+2022-12-01,Distributor,0
+2022-12-01,Manufacturer,266
+2022-12-01,User facility,1
+2022-12-01,Voluntary,4
+2023-01-01,Distributor,0
+2023-01-01,Manufacturer,248
+2023-01-01,User facility,1
+2023-01-01,Voluntary,0
+2023-02-01,Distributor,0
+2023-02-01,Manufacturer,274
+2023-02-01,User facility,0
+2023-02-01,Voluntary,2
+2023-03-01,Distributor,0
+2023-03-01,Manufacturer,291
+2023-03-01,User facility,1
+2023-03-01,Voluntary,0
+2023-04-01,Distributor,0
+2023-04-01,Manufacturer,266
+2023-04-01,User facility,2
+2023-04-01,Voluntary,1
+2023-05-01,Distributor,0
+2023-05-01,Manufacturer,229
+2023-05-01,User facility,6
+2023-05-01,Voluntary,0
+2023-06-01,Distributor,0
+2023-06-01,Manufacturer,271
+2023-06-01,User facility,3
+2023-06-01,Voluntary,0
+2023-07-01,Distributor,0
+2023-07-01,Manufacturer,277
+2023-07-01,User facility,2
+2023-07-01,Voluntary,1
+2023-08-01,Distributor,0
+2023-08-01,Manufacturer,241
+2023-08-01,User facility,4
+2023-08-01,Voluntary,1
+2023-09-01,Distributor,0
+2023-09-01,Manufacturer,225
+2023-09-01,User facility,1
+2023-09-01,Voluntary,5
+2023-10-01,Distributor,0
+2023-10-01,Manufacturer,272
+2023-10-01,User facility,4
+2023-10-01,Voluntary,2
+2023-11-01,Distributor,0
+2023-11-01,Manufacturer,241
+2023-11-01,User facility,3
+2023-11-01,Voluntary,5
+2023-12-01,Distributor,0
+2023-12-01,Manufacturer,208
+2023-12-01,User facility,4
+2023-12-01,Voluntary,6
+2024-01-01,Distributor,0
+2024-01-01,Manufacturer,285
+2024-01-01,User facility,1
+2024-01-01,Voluntary,0
+2024-02-01,Distributor,0
+2024-02-01,Manufacturer,270
+2024-02-01,User facility,1
+2024-02-01,Voluntary,5
+2024-03-01,Distributor,0
+2024-03-01,Manufacturer,275
+2024-03-01,User facility,1
+2024-03-01,Voluntary,1
+2024-04-01,Distributor,0
+2024-04-01,Manufacturer,249
+2024-04-01,User facility,0
+2024-04-01,Voluntary,0
+2024-05-01,Distributor,0
+2024-05-01,Manufacturer,304
+2024-05-01,User facility,0
+2024-05-01,Voluntary,3
+2024-06-01,Distributor,0
+2024-06-01,Manufacturer,221
+2024-06-01,User facility,2
+2024-06-01,Voluntary,0
+2024-07-01,Distributor,0
+2024-07-01,Manufacturer,195
+2024-07-01,User facility,0
+2024-07-01,Voluntary,2
+2024-08-01,Distributor,0
+2024-08-01,Manufacturer,220
+2024-08-01,User facility,4
+2024-08-01,Voluntary,1
+2024-09-01,Distributor,0
+2024-09-01,Manufacturer,241
+2024-09-01,User facility,4
+2024-09-01,Voluntary,3
+2024-10-01,Distributor,0
+2024-10-01,Manufacturer,240
+2024-10-01,User facility,5
+2024-10-01,Voluntary,0
+2024-11-01,Distributor,0
+2024-11-01,Manufacturer,263
+2024-11-01,User facility,4
+2024-11-01,Voluntary,2
+2024-12-01,Distributor,0
+2024-12-01,Manufacturer,236
+2024-12-01,User facility,2
+2024-12-01,Voluntary,1
+2025-01-01,Distributor,0
+2025-01-01,Manufacturer,217
+2025-01-01,User facility,2
+2025-01-01,Voluntary,1
+2025-02-01,Distributor,0
+2025-02-01,Manufacturer,228
+2025-02-01,User facility,1
+2025-02-01,Voluntary,1
+2025-03-01,Distributor,0
+2025-03-01,Manufacturer,193
+2025-03-01,User facility,2
+2025-03-01,Voluntary,4
+2025-04-01,Distributor,0
+2025-04-01,Manufacturer,195
+2025-04-01,User facility,3
+2025-04-01,Voluntary,2
+2025-05-01,Distributor,0
+2025-05-01,Manufacturer,221
+2025-05-01,User facility,1
+2025-05-01,Voluntary,0
+2025-06-01,Distributor,0
+2025-06-01,Manufacturer,162
+2025-06-01,User facility,5
+2025-06-01,Voluntary,4
+2025-07-01,Distributor,0
+2025-07-01,Manufacturer,193
+2025-07-01,User facility,1
+2025-07-01,Voluntary,3
+2025-08-01,Distributor,0
+2025-08-01,Manufacturer,271
+2025-08-01,User facility,1
+2025-08-01,Voluntary,1
+2025-09-01,Distributor,0
+2025-09-01,Manufacturer,181
+2025-09-01,User facility,1
+2025-09-01,Voluntary,2
+2025-10-01,Distributor,0
+2025-10-01,Manufacturer,210
+2025-10-01,User facility,1
+2025-10-01,Voluntary,5
+2025-11-01,Distributor,0
+2025-11-01,Manufacturer,163
+2025-11-01,User facility,1
+2025-11-01,Voluntary,1
+2025-12-01,Distributor,0
+2025-12-01,Manufacturer,218
+2025-12-01,User facility,0
+2025-12-01,Voluntary,4

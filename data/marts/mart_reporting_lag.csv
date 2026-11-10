@@ -1,0 +1,5 @@
+event_type,reports_with_event_date,median_lag_days,p90_lag_days
+Death,1323,66.0,1706.0
+Injury,9330,29.0,371.10000000000036
+Malfunction,13493,23.0,91.0
+Other / not provided,2,18.5,28.500000000000004

@@ -1,0 +1,188 @@
+problem,reports,pct_of_reports
+"No Clinical Signs, Symptoms or Conditions",11053,45.4
+No Consequences Or Impact To Patient,3649,15.0
+Vascular Dissection,3252,13.4
+Myocardial Infarction,1438,5.9
+Insufficient Information,1203,4.9
+Thrombosis/Thrombus,881,3.6
+Angina,807,3.3
+Intimal Dissection,496,2.0
+Death,444,1.8
+Stenosis,437,1.8
+Restenosis,427,1.8
+Obstruction/Occlusion,405,1.7
+Chest Pain,335,1.4
+Cardiac Arrest,334,1.4
+Thrombosis,306,1.3
+Device Embedded In Tissue or Plaque,288,1.2
+Stroke/CVA,288,1.2
+Foreign Body In Patient,252,1.0
+Reduced Blood Flow,239,1.0
+No Patient Involvement,208,0.9
+Injury,198,0.8
+Ischemia,197,0.8
+Hemorrhage/Blood Loss/Bleeding,192,0.8
+No Known Impact Or Consequence To Patient,190,0.8
+Unspecified Tissue Injury,185,0.8
+Low Blood Pressure/ Hypotension,144,0.6
+Non specific EKG/ECG Changes,136,0.6
+Occlusion,130,0.5
+Heart Failure/Congestive Heart Failure,125,0.5
+No Code Available,116,0.5
+Perforation of Vessels,113,0.5
+Dyspnea,112,0.5
+Perforation,96,0.4
+Arteriosclerosis/ Atherosclerosis,95,0.4
+Pain,84,0.3
+Arrhythmia,82,0.3
+Cardiac Enzyme Elevation,81,0.3
+Thrombus,79,0.3
+Ventricular Fibrillation,73,0.3
+Cardiogenic Shock,72,0.3
+Hematoma,62,0.3
+Unspecified Heart Problem,62,0.3
+Bradycardia,58,0.2
+Hypersensitivity/Allergic reaction,58,0.2
+Blood Loss,50,0.2
+High Blood Pressure/ Hypertension,48,0.2
+Prolapse,47,0.2
+Aneurysm,46,0.2
+Local Reaction,42,0.2
+Embolism/Embolus,39,0.2
+Atrial Fibrillation,39,0.2
+Reocclusion,35,0.1
+Cardiac Tamponade,35,0.1
+Respiratory Failure,30,0.1
+Tachycardia,29,0.1
+Heart Failure,28,0.1
+Discomfort,25,0.1
+Pneumonia,25,0.1
+Pericardial Effusion,25,0.1
+Rash,25,0.1
+Transient Ischemic Attack,24,0.1
+Unspecified Infection,24,0.1
+Rupture,23,0.1
+Dizziness,21,0.1
+Pseudoaneurysm,21,0.1
+"Complaint, Ill-Defined",21,0.1
+Nausea,20,0.1
+Ischemic Heart Disease,19,0.1
+Inflammation,18,0.1
+Embolism,18,0.1
+Failure of Implant,18,0.1
+Fatigue,17,0.1
+"Vessel Or Plaque, Device Embedded In",16,0.1
+Swelling/ Edema,15,0.1
+Atrial Flutter,15,0.1
+Shock,14,0.1
+Fever,14,0.1
+Sepsis,14,0.1
+Test Result,14,0.1
+Diaphoresis,14,0.1
+Vasoconstriction,13,0.1
+Unspecified Vascular Problem,12,0.0
+Renal Failure,12,0.0
+Heart Block,11,0.0
+Hypoxia,11,0.0
+Syncope/Fainting,10,0.0
+Respiratory Arrest,10,0.0
+Ventilator Dependent,10,0.0
+Reaction,10,0.0
+Unspecified Kidney or Urinary Problem,10,0.0
+Headache,9,0.0
+Ventricular Tachycardia,9,0.0
+Atherosclerosis,9,0.0
+Asystole,9,0.0
+Anemia,9,0.0
+Pulmonary Edema,8,0.0
+"Appropriate Clinical Signs, Symptoms and Conditions Term/Code Not Available",7,0.0
+Intracranial Hemorrhage,7,0.0
+Hemoptysis,6,0.0
+Cardiopulmonary Arrest,6,0.0
+Anxiety,5,0.0
+Loss of consciousness,5,0.0
+Gastrointestinal Hemorrhage,5,0.0
+Foreign Body Embolism,5,0.0
+Neurological Deficit/Dysfunction,5,0.0
+Viral Infection,5,0.0
+Coma,5,0.0
+Cardiomyopathy,5,0.0
+ST Segment Elevation,5,0.0
+Cardiac Perforation,5,0.0
+Coronary obstruction/occlusion,4,0.0
+Vomiting,4,0.0
+Calcium Deposits/Calcification,4,0.0
+Ischemia Stroke,4,0.0
+Cyanosis,4,0.0
+Aortic Dissection,4,0.0
+Respiratory Distress,4,0.0
+Cardiovascular Dysfunction/Insufficiency,3,0.0
+Air Embolism,3,0.0
+Respiratory Insufficiency,3,0.0
+Pulmonary Embolism,3,0.0
+"Radiation Exposure, Unintended",3,0.0
+Hemorrhagic Stroke,3,0.0
+Renal Impairment,3,0.0
+No Information,3,0.0
+Cancer,3,0.0
+Fistula,3,0.0
+Abdominal Pain,3,0.0
+Hemodynamic instability,3,0.0
+Patient Problem/Medical Problem,2,0.0
+Diminished Pulse Pressure,2,0.0
+Urinary Retention,2,0.0
+Constipation,2,0.0
+Unspecified Respiratory Problem,2,0.0
+Unspecified Eye / Vision Problem,2,0.0
+Liver Failure,2,0.0
+"Insufficiency, Valvular",2,0.0
+Syncope,2,0.0
+Coagulation Disorder,2,0.0
+Disseminated Intravascular Coagulation (DIC),2,0.0
+Nervous System Injury,2,0.0
+Numbness,2,0.0
+Gastritis,2,0.0
+Sudden Cardiac Death,2,0.0
+Itching Sensation,2,0.0
+Hypokalemia,2,0.0
+Bacterial Infection,2,0.0
+Vasospasm,1,0.0
+Low Pulmonary Arterial Wedge Pressure,1,0.0
+Ruptured Aneurysm,1,0.0
+Bronchospasm,1,0.0
+Movement Disorder,1,0.0
+Liver Damage/Dysfunction,1,0.0
+Pulmonary Valve Insufficiency/ Regurgitation,1,0.0
+Electric Shock,1,0.0
+Sweating,1,0.0
+Septic Shock,1,0.0
+Neuropathy,1,0.0
+Localized Skin Lesion,1,0.0
+Dyskinesia,1,0.0
+Delirium,1,0.0
+Hyperkalemia,1,0.0
+Hyperplasia,1,0.0
+Electrolyte Imbalance,1,0.0
+Seizures,1,0.0
+Hematuria,1,0.0
+Toxicity,1,0.0
+Sleep Dysfunction,1,0.0
+Bronchopneumonia,1,0.0
+Chest Tightness/Pressure,1,0.0
+Thromboembolism,1,0.0
+Encephalopathy,1,0.0
+Dysphagia/ Odynophagia,1,0.0
+Skin Tears,1,0.0
+Scar Tissue,1,0.0
+Unintended Radiation Exposure,1,0.0
+Medical device site infection,1,0.0
+Chills,1,0.0
+Blurred Vision,1,0.0
+Exsanguination,1,0.0
+Laceration(s),1,0.0
+Low Cardiac Output,1,0.0
+Dysphasia,1,0.0
+Hallucination,1,0.0
+Joint Contracture,1,0.0
+Melena,1,0.0
+Palpitations,1,0.0

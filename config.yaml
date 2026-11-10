@@ -1,0 +1,39 @@
+# -----------------------------------------------------------------------------
+# Analysis configuration. Change this file, re-run `python run_pipeline.py`.
+# -----------------------------------------------------------------------------
+
+# Title shown on the dashboard and in the insight brief.
+project_title: "Coronary drug-eluting stents: MAUDE complaint trending"
+
+# FDA product codes to analyse. A report is kept if ANY device on it has one of
+# these codes. Verify codes in the FDA Product Classification database:
+# https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm
+#   NIQ = coronary drug-eluting stent
+#   LOX = PTCA (coronary angioplasty) balloon catheter
+product_codes: ["NIQ"]
+
+# Window on the date FDA RECEIVED the report (YYYY-MM-DD). End it on the last
+# day of a COMPLETE month; a partial final month looks like a false dip.
+date_from: "2020-01-01"
+date_to: "2025-12-31"
+
+# Safety cap on downloaded records (openFDA without an API key allows
+# ~1,000 requests/day; each request returns up to 1,000 reports).
+max_records: 150000
+
+# Control chart settings
+control_chart:
+  method: "imr"          # "imr" (individuals chart, default) or "c" (Poisson c-chart)
+  # Phase I baseline: a STABLE period that sets the centre line and limits.
+  # 2023-2024 is used because report volume fell steadily through 2020-2022
+  # (monthly mean 530 -> 339) and levelled off in 2023-2024 (258, 253).
+  # Months before the baseline are shown as "Pre-baseline" (context only);
+  # months after it are monitored against the fixed limits.
+  baseline_start: "2023-01-01"
+  baseline_end: "2024-12-31"
+  sigma: 3               # control limits at +/- sigma
+  run_length: 8          # Western Electric run rule: N points in a row on one side of centre
+
+# Dashboard detail
+top_n_manufacturers: 6   # the rest are grouped as "Other"
+top_n_problems: 12

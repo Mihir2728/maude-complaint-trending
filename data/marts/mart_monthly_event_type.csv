@@ -1,0 +1,289 @@
+month,event_type,reports
+2020-01-01,Death,33
+2020-01-01,Injury,231
+2020-01-01,Malfunction,282
+2020-01-01,Other / not provided,0
+2020-02-01,Death,35
+2020-02-01,Injury,184
+2020-02-01,Malfunction,298
+2020-02-01,Other / not provided,0
+2020-03-01,Death,86
+2020-03-01,Injury,344
+2020-03-01,Malfunction,336
+2020-03-01,Other / not provided,0
+2020-04-01,Death,39
+2020-04-01,Injury,132
+2020-04-01,Malfunction,253
+2020-04-01,Other / not provided,0
+2020-05-01,Death,19
+2020-05-01,Injury,84
+2020-05-01,Malfunction,236
+2020-05-01,Other / not provided,0
+2020-06-01,Death,32
+2020-06-01,Injury,138
+2020-06-01,Malfunction,324
+2020-06-01,Other / not provided,0
+2020-07-01,Death,22
+2020-07-01,Injury,133
+2020-07-01,Malfunction,352
+2020-07-01,Other / not provided,0
+2020-08-01,Death,34
+2020-08-01,Injury,146
+2020-08-01,Malfunction,280
+2020-08-01,Other / not provided,0
+2020-09-01,Death,52
+2020-09-01,Injury,177
+2020-09-01,Malfunction,328
+2020-09-01,Other / not provided,0
+2020-10-01,Death,28
+2020-10-01,Injury,154
+2020-10-01,Malfunction,347
+2020-10-01,Other / not provided,0
+2020-11-01,Death,36
+2020-11-01,Injury,197
+2020-11-01,Malfunction,331
+2020-11-01,Other / not provided,0
+2020-12-01,Death,25
+2020-12-01,Injury,162
+2020-12-01,Malfunction,472
+2020-12-01,Other / not provided,0
+2021-01-01,Death,13
+2021-01-01,Injury,142
+2021-01-01,Malfunction,326
+2021-01-01,Other / not provided,0
+2021-02-01,Death,57
+2021-02-01,Injury,181
+2021-02-01,Malfunction,267
+2021-02-01,Other / not provided,0
+2021-03-01,Death,27
+2021-03-01,Injury,191
+2021-03-01,Malfunction,351
+2021-03-01,Other / not provided,1
+2021-04-01,Death,26
+2021-04-01,Injury,164
+2021-04-01,Malfunction,268
+2021-04-01,Other / not provided,0
+2021-05-01,Death,21
+2021-05-01,Injury,136
+2021-05-01,Malfunction,267
+2021-05-01,Other / not provided,0
+2021-06-01,Death,15
+2021-06-01,Injury,153
+2021-06-01,Malfunction,274
+2021-06-01,Other / not provided,0
+2021-07-01,Death,14
+2021-07-01,Injury,147
+2021-07-01,Malfunction,286
+2021-07-01,Other / not provided,0
+2021-08-01,Death,12
+2021-08-01,Injury,148
+2021-08-01,Malfunction,222
+2021-08-01,Other / not provided,0
+2021-09-01,Death,7
+2021-09-01,Injury,111
+2021-09-01,Malfunction,251
+2021-09-01,Other / not provided,0
+2021-10-01,Death,16
+2021-10-01,Injury,112
+2021-10-01,Malfunction,246
+2021-10-01,Other / not provided,0
+2021-11-01,Death,16
+2021-11-01,Injury,124
+2021-11-01,Malfunction,240
+2021-11-01,Other / not provided,0
+2021-12-01,Death,22
+2021-12-01,Injury,140
+2021-12-01,Malfunction,274
+2021-12-01,Other / not provided,0
+2022-01-01,Death,10
+2022-01-01,Injury,132
+2022-01-01,Malfunction,224
+2022-01-01,Other / not provided,0
+2022-02-01,Death,19
+2022-02-01,Injury,108
+2022-02-01,Malfunction,245
+2022-02-01,Other / not provided,0
+2022-03-01,Death,12
+2022-03-01,Injury,120
+2022-03-01,Malfunction,296
+2022-03-01,Other / not provided,0
+2022-04-01,Death,12
+2022-04-01,Injury,136
+2022-04-01,Malfunction,243
+2022-04-01,Other / not provided,0
+2022-05-01,Death,3
+2022-05-01,Injury,120
+2022-05-01,Malfunction,220
+2022-05-01,Other / not provided,0
+2022-06-01,Death,13
+2022-06-01,Injury,169
+2022-06-01,Malfunction,268
+2022-06-01,Other / not provided,0
+2022-07-01,Death,38
+2022-07-01,Injury,144
+2022-07-01,Malfunction,184
+2022-07-01,Other / not provided,0
+2022-08-01,Death,6
+2022-08-01,Injury,129
+2022-08-01,Malfunction,134
+2022-08-01,Other / not provided,0
+2022-09-01,Death,4
+2022-09-01,Injury,121
+2022-09-01,Malfunction,122
+2022-09-01,Other / not provided,1
+2022-10-01,Death,9
+2022-10-01,Injury,129
+2022-10-01,Malfunction,143
+2022-10-01,Other / not provided,0
+2022-11-01,Death,16
+2022-11-01,Injury,116
+2022-11-01,Malfunction,151
+2022-11-01,Other / not provided,0
+2022-12-01,Death,16
+2022-12-01,Injury,122
+2022-12-01,Malfunction,133
+2022-12-01,Other / not provided,0
+2023-01-01,Death,10
+2023-01-01,Injury,114
+2023-01-01,Malfunction,125
+2023-01-01,Other / not provided,0
+2023-02-01,Death,6
+2023-02-01,Injury,121
+2023-02-01,Malfunction,149
+2023-02-01,Other / not provided,0
+2023-03-01,Death,16
+2023-03-01,Injury,135
+2023-03-01,Malfunction,141
+2023-03-01,Other / not provided,0
+2023-04-01,Death,9
+2023-04-01,Injury,122
+2023-04-01,Malfunction,138
+2023-04-01,Other / not provided,0
+2023-05-01,Death,6
+2023-05-01,Injury,97
+2023-05-01,Malfunction,132
+2023-05-01,Other / not provided,0
+2023-06-01,Death,6
+2023-06-01,Injury,141
+2023-06-01,Malfunction,127
+2023-06-01,Other / not provided,0
+2023-07-01,Death,16
+2023-07-01,Injury,138
+2023-07-01,Malfunction,126
+2023-07-01,Other / not provided,0
+2023-08-01,Death,15
+2023-08-01,Injury,107
+2023-08-01,Malfunction,124
+2023-08-01,Other / not provided,0
+2023-09-01,Death,22
+2023-09-01,Injury,93
+2023-09-01,Malfunction,116
+2023-09-01,Other / not provided,0
+2023-10-01,Death,10
+2023-10-01,Injury,138
+2023-10-01,Malfunction,130
+2023-10-01,Other / not provided,0
+2023-11-01,Death,9
+2023-11-01,Injury,100
+2023-11-01,Malfunction,140
+2023-11-01,Other / not provided,0
+2023-12-01,Death,16
+2023-12-01,Injury,79
+2023-12-01,Malfunction,123
+2023-12-01,Other / not provided,0
+2024-01-01,Death,18
+2024-01-01,Injury,140
+2024-01-01,Malfunction,128
+2024-01-01,Other / not provided,0
+2024-02-01,Death,12
+2024-02-01,Injury,102
+2024-02-01,Malfunction,162
+2024-02-01,Other / not provided,0
+2024-03-01,Death,13
+2024-03-01,Injury,108
+2024-03-01,Malfunction,156
+2024-03-01,Other / not provided,0
+2024-04-01,Death,14
+2024-04-01,Injury,111
+2024-04-01,Malfunction,124
+2024-04-01,Other / not provided,0
+2024-05-01,Death,30
+2024-05-01,Injury,153
+2024-05-01,Malfunction,124
+2024-05-01,Other / not provided,0
+2024-06-01,Death,11
+2024-06-01,Injury,104
+2024-06-01,Malfunction,108
+2024-06-01,Other / not provided,0
+2024-07-01,Death,4
+2024-07-01,Injury,77
+2024-07-01,Malfunction,116
+2024-07-01,Other / not provided,0
+2024-08-01,Death,13
+2024-08-01,Injury,111
+2024-08-01,Malfunction,101
+2024-08-01,Other / not provided,0
+2024-09-01,Death,18
+2024-09-01,Injury,122
+2024-09-01,Malfunction,107
+2024-09-01,Other / not provided,1
+2024-10-01,Death,17
+2024-10-01,Injury,121
+2024-10-01,Malfunction,107
+2024-10-01,Other / not provided,0
+2024-11-01,Death,14
+2024-11-01,Injury,139
+2024-11-01,Malfunction,116
+2024-11-01,Other / not provided,0
+2024-12-01,Death,5
+2024-12-01,Injury,143
+2024-12-01,Malfunction,91
+2024-12-01,Other / not provided,0
+2025-01-01,Death,12
+2025-01-01,Injury,107
+2025-01-01,Malfunction,101
+2025-01-01,Other / not provided,0
+2025-02-01,Death,16
+2025-02-01,Injury,113
+2025-02-01,Malfunction,101
+2025-02-01,Other / not provided,0
+2025-03-01,Death,15
+2025-03-01,Injury,88
+2025-03-01,Malfunction,94
+2025-03-01,Other / not provided,2
+2025-04-01,Death,9
+2025-04-01,Injury,107
+2025-04-01,Malfunction,84
+2025-04-01,Other / not provided,0
+2025-05-01,Death,14
+2025-05-01,Injury,129
+2025-05-01,Malfunction,79
+2025-05-01,Other / not provided,0
+2025-06-01,Death,9
+2025-06-01,Injury,73
+2025-06-01,Malfunction,89
+2025-06-01,Other / not provided,0
+2025-07-01,Death,20
+2025-07-01,Injury,74
+2025-07-01,Malfunction,103
+2025-07-01,Other / not provided,0
+2025-08-01,Death,40
+2025-08-01,Injury,129
+2025-08-01,Malfunction,104
+2025-08-01,Other / not provided,0
+2025-09-01,Death,9
+2025-09-01,Injury,77
+2025-09-01,Malfunction,98
+2025-09-01,Other / not provided,0
+2025-10-01,Death,16
+2025-10-01,Injury,119
+2025-10-01,Malfunction,81
+2025-10-01,Other / not provided,0
+2025-11-01,Death,7
+2025-11-01,Injury,66
+2025-11-01,Malfunction,91
+2025-11-01,Other / not provided,1
+2025-12-01,Death,13
+2025-12-01,Injury,92
+2025-12-01,Malfunction,117
+2025-12-01,Other / not provided,0

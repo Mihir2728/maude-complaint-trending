@@ -1,0 +1,73 @@
+// =============================================================================
+// DAX for the Power BI version of the dashboard.
+// Tables are the CSVs in data/marts/ (load each with Get Data > Text/CSV).
+// Create a "Months" table (Modeling > New table) and relate Months[Month]
+// one-to-many to the `month` column of every mart table.
+// =============================================================================
+
+// ---- Calculated table -------------------------------------------------------
+Months =
+DISTINCT ( SELECTCOLUMNS ( mart_control_chart, "Month", mart_control_chart[month] ) )
+
+
+// ---- Core measures -----------------------------------------------------------
+Total Reports =
+SUM ( mart_control_chart[reports] )
+
+Injury or Death % =
+DIVIDE (
+    CALCULATE (
+        SUM ( mart_monthly_event_type[reports] ),
+        mart_monthly_event_type[event_type] IN { "Injury", "Death" }
+    ),
+    SUM ( mart_monthly_event_type[reports] )
+)
+
+Months Above UCL =
+COUNTROWS ( FILTER ( mart_control_chart, mart_control_chart[rule1_above_ucl] = TRUE () ) )
+
+Months Below LCL =
+COUNTROWS ( FILTER ( mart_control_chart, mart_control_chart[rule1_below_lcl] = TRUE () ) )
+
+Months in Upward Shift =
+COUNTROWS ( FILTER ( mart_control_chart, mart_control_chart[rule2_upward_shift] = TRUE () ) )
+
+Months in Downward Shift =
+COUNTROWS ( FILTER ( mart_control_chart, mart_control_chart[rule2_downward_shift] = TRUE () ) )
+
+
+// ---- Control limits recomputed in DAX ----------------------------------------
+// These reproduce the Python I-MR limits from the baseline phase, so the report
+// does not depend on the precomputed centre/ucl/lcl columns. Check that they
+// match the values printed by run_pipeline.py.
+Baseline Centre =
+CALCULATE (
+    AVERAGE ( mart_control_chart[reports] ),
+    REMOVEFILTERS ( Months ),
+    mart_control_chart[phase] = "Baseline"
+)
+
+Baseline MR Bar =
+CALCULATE (
+    AVERAGE ( mart_control_chart[moving_range] ),
+    REMOVEFILTERS ( Months ),
+    mart_control_chart[phase] = "Baseline",
+    NOT ISBLANK ( mart_control_chart[moving_range] )
+)
+
+Sigma Hat = DIVIDE ( [Baseline MR Bar], 1.128 )
+
+UCL = [Baseline Centre] + 3 * [Sigma Hat]
+
+LCL = MAX ( 0, [Baseline Centre] - 3 * [Sigma Hat] )
+
+// Plot these as extra series with markers only (line width 0):
+// red triangles above the UCL, orange downward triangles below the LCL.
+// Pre-baseline months are context only, so they are never flagged.
+Signal Reports =
+VAR r = [Total Reports]
+RETURN IF ( r > [UCL] && SELECTEDVALUE ( mart_control_chart[phase] ) <> "Pre-baseline", r )
+
+Low Signal Reports =
+VAR r = [Total Reports]
+RETURN IF ( r < [LCL] && SELECTEDVALUE ( mart_control_chart[phase] ) <> "Pre-baseline", r )
